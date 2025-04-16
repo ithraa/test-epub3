@@ -19,14 +19,15 @@ export class AppComponent {
   }
   ngAfterViewInit(): void {
     if (this.isBrowser) {
-    this.book = ePub('/assets/moby-dick.epub'); // Make sure the path is correct
+
+    this.book = ePub('/assets/moby-dick/OPS/package.opf');
 
     this.rendition = this.book.renderTo('viewer', {
       width: '100%',
       height: '100%',
-      allowScriptedContent: true // This tells EPUB.js to allow scripts in iframesallowScriptedContent: true // This tells EPUB.js to allow scripts in iframes
+      allowScriptedContent: true
     });
-
+// test
     this.rendition.display();
   }
 }
@@ -36,6 +37,5 @@ export class AppComponent {
   }
   prevPage(){
     this.rendition.prev();
-
   }
 }
