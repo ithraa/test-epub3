@@ -11,64 +11,64 @@ Created by: Hussein Muhammed
 	font-family:"AGA Arabesque";
 	font-style:normal;
 	font-weight:normal;
-	/* src : url("../Fonts/AGA-Arabesque.TTF"); */
-	src : url("../Fonts/WMG-AGA-Arabesque.otf");
+	src: url("../Fonts/WMG-AGA-Arabesque.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"Harf-Fannan";
 	font-style:normal;
 	font-weight:300;
-	/* src : url("../Fonts/Harf-Fannan.ttf"); */
-	src : url("../Fonts/WMG-Harf-Fannan.otf");
+	src: url("../Fonts/WMG-Harf-Fannan.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"KFGQPC Arabic Symbols 01";
 	font-style:normal;
 	font-weight:normal;
-	/* src : url("../Fonts/KFGQPCArabicSymbols01.otf"); */
-	src : url("../Fonts/WMG-KFGQPCArabicSymbols01.otf");
+	src: url("../Fonts/WMG-KFGQPCArabicSymbols01.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"KFGQPC Uthmanic Script HAFS";
 	font-style:normal;
 	font-weight:normal;
-	/* src : url("../Fonts/KFGQPCUthmanicScriptHAFS.otf"); */
-	src : url("../Fonts/UthmanicHafs1-Ver09.otf");
+	src: url("../Fonts/UthmanicHafs1-Ver09.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"Qadi Linotype";
 	font-style:normal;
 	font-weight:normal;
-	/* src : url("../Fonts/QadiLinotype.otf"); */
-	src : url("../Fonts/WMG-QadiLinotype.otf");
+	src: url("../Fonts/WMG-QadiLinotype.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"Times New Roman";
 	font-style:normal;
 	font-weight:bold;
-	/* src : url("../Fonts/TimesNewRomanPS-BoldMT.ttf"); */
-	src : url("../Fonts/WMG-Lotus-Bold.otf");
+	src: url("../Fonts/WMG-Lotus-Bold.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"Times New Roman";
 	font-style:normal;
 	font-weight:normal;
-	/* src : url("../Fonts/TimesNewRomanPSMT.ttf"); */
-	src : url("../Fonts/WMG-Lotus-Light.otf");
+	src: url("../Fonts/WMG-Lotus-Light.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"louts shamy";
 	font-style:normal;
 	font-weight:300;
-	/* src : url("../Fonts/louts-shamy.ttf"); */
-	src : url("../Fonts/WMG-Lotus-Light.otf");
+	src: url("../Fonts/WMG-Lotus-Light.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 @font-face {
 	font-family:"louts shamy";
 	font-style:normal;
 	font-weight:bold;
-	/* src : url("../Fonts/louts-shamy-Bold.ttf"); */
-	src : url("../Fonts/WMG-Lotus-Bold.otf");
+	src: url("../Fonts/WMG-Lotus-Bold.otf") format("opentype");
+	-webkit-font-smoothing: antialiased;
 }
 
 
