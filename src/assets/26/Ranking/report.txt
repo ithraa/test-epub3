@@ -1,7 +1,0 @@
-Start Fixing Missed CFIs
-End Fixing Missed CFIs
-Start Fixing DB Ranges
-CfiRanges.Book(26).Unexpected(epubcfi(/6/132[x2-16]!4[x2-16]/2/50/2/1:0,, 0)
-CfiRanges.Book(26).Unexpected(epubcfi(/6/58[x1-20]!4[x1-20]/2/58/2/1:0,, 0)
-CfiRanges.Book(26).Unexpected(epubcfi(/6/136[x2-18]!4[x2-18]/2/48/1:0,, 0)
-CfiRanges.Book(26).Counts(42627).Missed(0).StartOverflow(0).EndOverflow(0).Unmatched(0)
