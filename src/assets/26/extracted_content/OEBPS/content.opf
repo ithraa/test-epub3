@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<package version="3.0" 
+         unique-identifier="bookid" 
+         xmlns="http://www.idpf.org/2007/opf"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:opf="http://www.idpf.org/2007/opf"
+         prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata>
+    <meta property="dcterms:modified">2025-04-20T00:00:00Z</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
     <meta content="Adobe InDesign 16.0.1" name="generator"/>
     <meta name="cover" content="rawd-cover.png"/>
     <dc:title>الروض المربع بشرح زاد المستقنع</dc:title>
@@ -8,16 +16,14 @@
     <dc:subject>الفقه الإسلامي</dc:subject>
     <dc:description/>
     <dc:publisher>شركة إثراء المتون</dc:publisher>
-    <dc:date>13/09/2021</dc:date>
+    <dc:date>2025-04-20</dc:date>
     <dc:source/>
     <dc:relation/>
     <dc:coverage/>
     <dc:rights/>
-    <dc:language>ar-SA</dc:language>
-    <dc:language>en-US</dc:language>
+    <dc:language>ar</dc:language>
     <dc:identifier id="bookid">urn:uuid:9a6c942b-bcca-4fab-9af5-770929939db0</dc:identifier>
     <meta content="1.7.0" name="Sigil version"/>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-09-15</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
@@ -316,6 +322,7 @@
     <item id="x4-77" href="Text/4-77.xhtml" media-type="application/xhtml+xml"/>
     <item id="x4-78" href="Text/4-78.xhtml" media-type="application/xhtml+xml"/>
     <item id="x4-79" href="Text/4-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="stylesheet.css" href="../Styles/stylesheet.css" media-type="text/css"/>
     <item id="Image553513.png" href="Images/image553513.png" media-type="image/png"/>
@@ -337,7 +344,7 @@
     <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
     <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
   </manifest>
-  <spine toc="ncx"  page-progression-direction="rtl">
+  <spine toc="ncx" page-progression-direction="rtl">
     <itemref idref="cover" linear="no"/>
     <itemref idref="x0" linear="no"/>
     <itemref idref="x0-1" linear="no"/>
@@ -634,8 +641,10 @@
     <itemref idref="x4-77"/>
     <itemref idref="x4-78"/>
     <itemref idref="x4-79"/>
+    <itemref idref="nav" linear="yes"/>
   </spine>
   <guide>
-    <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/nav.xhtml"/>
   </guide>
 </package>
