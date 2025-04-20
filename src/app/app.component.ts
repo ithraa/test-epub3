@@ -21,9 +21,9 @@ export class AppComponent {
   ngAfterViewInit(): void {
     if (this.isBrowser) {
 //  this.book = ePub('/assets/moby-dick.epub'); 
-    // this.book = ePub('/assets/moby-dick/OPS/package.opf');
+    this.book = ePub('/assets/moby-dick/OPS/package.opf');
     // this.book = ePub('/assets/26/extracted_content/OEBPS/content.opf');
-    this.book = Epub('/assets/26/extracted_content/OEBPS/content.opf');
+    // this.book = Epub('/assets/43/OEBPS/content.opf');
 
     this.rendition = this.book.renderTo('viewer', {
       flow: 'scrolled-doc', 

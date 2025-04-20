@@ -1,1 +1,0 @@
-UPDATE annotator_store_annotations SET abs_rank = '384', abs_spin_rank = '220' WHERE id = 124591;

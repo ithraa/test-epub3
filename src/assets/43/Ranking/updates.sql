@@ -1,1 +1,0 @@
-UPDATE annotator_store_annotations SET cfi_range = 'epubcfi(/6/6[Nokhbat-ul-Fikar-1]!/4[Nokhbat-ul-Fikar-1]/2[_idParaDest-2]/8,/1:23,/1:33)', start_rank = '270023', end_rank = '270033', toc_id = 2 WHERE id = 124591;
