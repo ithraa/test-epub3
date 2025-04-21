@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:c614b894-fe1c-11ed-be56-0242ac120002" />
+		<meta name="dtb:depth" content="6" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>تاريخ الفقه</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="navpoint43" playOrder="43"><navLabel><text>غلاف</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-0.xhtml#_idParaDest-43" /></navPoint>
+		<navPoint id="navpoint44" playOrder="44"><navLabel><text>ثالثًا: الفقه في عصر الصحابة ښ</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-1.xhtml#_idParaDest-44" />
+			<navPoint id="navpoint45" playOrder="45"><navLabel><text>الأهداف</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-2.xhtml#_idParaDest-45" /></navPoint>
+			<navPoint id="navpoint46" playOrder="46"><navLabel><text>نشاط استهلالي</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-3.xhtml#_idParaDest-46" /></navPoint>
+		</navPoint>
+		<navPoint id="navpoint47" playOrder="47"><navLabel><text>الفقه في عصر الصحابة ښ</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-47" />
+			<navPoint id="navpoint48" playOrder="48"><navLabel><text> تمهيد</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-48" />
+				<navPoint id="navpoint49" playOrder="49"><navLabel><text> أولًا: منزلة عصر الصحابة ښ في تاريخ الفقه:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-49" /></navPoint>
+				<navPoint id="navpoint50" playOrder="50"><navLabel><text> ثانيًا: عناية الصحابة ښ بالوحيَيْن:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-50" /></navPoint>
+				<navPoint id="navpoint51" playOrder="51"><navLabel><text> ثالثًا: الاجتهاد ومصادرُ التشريع في عصر الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-51" /></navPoint>
+				<navPoint id="navpoint52" playOrder="52"><navLabel><text> رابعًا: اختلاف الصحابة ښ في الفقه والاجتهاد:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-52" /></navPoint>
+				<navPoint id="navpoint53" playOrder="53"><navLabel><text> خامسًا: أقسام الخلاف الفقهي الذي وقع بين الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-53" /></navPoint>
+				<navPoint id="navpoint54" playOrder="54"><navLabel><text> سادسًا: أبرز أسباب الخلاف الفقهي الواقع بين الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-54" /></navPoint>
+				<navPoint id="navpoint55" playOrder="55"><navLabel><text> سابعًا: أدب الخلاف عند الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-55" /></navPoint>
+				<navPoint id="navpoint56" playOrder="56"><navLabel><text> ثامنًا: فقهاء الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-56" /></navPoint>
+				<navPoint id="navpoint57" playOrder="57"><navLabel><text> تاسعًا: مقام فقه الصحابة، وخصائصه:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-57" /></navPoint>
+				<navPoint id="navpoint58" playOrder="58"><navLabel><text> عاشرًا: مظانُّ فقه الصحابة ښ:</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-4.xhtml#_idParaDest-58" /></navPoint>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59"><navLabel><text>أنشطة</text></navLabel><content src="Text/Thareekh_Alfiqh_E05_full-5.xhtml#_idParaDest-59" /></navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

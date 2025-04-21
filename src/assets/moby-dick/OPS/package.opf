@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns#">
+<?xml 
+version="1.0" 
+encoding="UTF-8"?>
+<package 
+xmlns="http://www.idpf.org/2007/opf" 
+version="3.0" 
+xml:lang="en" 
+unique-identifier="pub-id" 
+prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title id="title">Moby-Dick</dc:title>
     <meta refines="#title" property="title-type">main</meta>
@@ -175,11 +182,6 @@
     <item id="xchapter_135" href="chapter_135.xhtml" media-type="application/xhtml+xml"/>
     <item id="xchapter_136" href="chapter_136.xhtml" media-type="application/xhtml+xml"/>
     <item id="brief-toc" href="toc-short.xhtml" media-type="application/xhtml+xml"/>
-
-    <!-- 
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
- -->
-
   </manifest>
   <spine>
     <itemref idref="cover" linear="no"/>
