@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="generator" content="Adobe InDesign 18.5.1"/>
+    <dc:title>مختصر أبي شجاع</dc:title>
+    <dc:creator>أبو شجاع أحمد بن الحسين الأصفهاني الشافعي</dc:creator>
+    <dc:subject/>
+    <dc:description/>
+    <dc:publisher>شركة إثراء المتون</dc:publisher>
+    <dc:date>2025-01-03T20:56:33Z</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>شركة إثراء المتون</dc:rights>
+    <dc:language>ar</dc:language>
+    <meta name="Sigil version" content="2.0.1"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2025-01-03</dc:date>
+    <meta name="cover" content="AbuShugaa-Cover.jpg"/>
+    <dc:identifier id="bookid">urn:uuid:e7eeafaa-4753-40fd-b5c8-b35516b268e8</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa" href="Text/AbuShugaa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-1" href="Text/AbuShugaa-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-2" href="Text/AbuShugaa-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-3" href="Text/AbuShugaa-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-4" href="Text/AbuShugaa-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-5" href="Text/AbuShugaa-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-6" href="Text/AbuShugaa-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-7" href="Text/AbuShugaa-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-8" href="Text/AbuShugaa-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-9" href="Text/AbuShugaa-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-10" href="Text/AbuShugaa-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-11" href="Text/AbuShugaa-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-12" href="Text/AbuShugaa-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-13" href="Text/AbuShugaa-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-14" href="Text/AbuShugaa-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-15" href="Text/AbuShugaa-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-16" href="Text/AbuShugaa-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-17" href="Text/AbuShugaa-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-18" href="Text/AbuShugaa-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-19" href="Text/AbuShugaa-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-20" href="Text/AbuShugaa-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-21" href="Text/AbuShugaa-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-22" href="Text/AbuShugaa-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-23" href="Text/AbuShugaa-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-24" href="Text/AbuShugaa-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-25" href="Text/AbuShugaa-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-26" href="Text/AbuShugaa-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-27" href="Text/AbuShugaa-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-28" href="Text/AbuShugaa-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-29" href="Text/AbuShugaa-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-30" href="Text/AbuShugaa-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-31" href="Text/AbuShugaa-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-32" href="Text/AbuShugaa-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-33" href="Text/AbuShugaa-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-34" href="Text/AbuShugaa-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-35" href="Text/AbuShugaa-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-36" href="Text/AbuShugaa-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-37" href="Text/AbuShugaa-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-38" href="Text/AbuShugaa-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-39" href="Text/AbuShugaa-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-40" href="Text/AbuShugaa-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-41" href="Text/AbuShugaa-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-42" href="Text/AbuShugaa-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-43" href="Text/AbuShugaa-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-44" href="Text/AbuShugaa-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-45" href="Text/AbuShugaa-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-46" href="Text/AbuShugaa-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-47" href="Text/AbuShugaa-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-48" href="Text/AbuShugaa-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-49" href="Text/AbuShugaa-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-50" href="Text/AbuShugaa-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-51" href="Text/AbuShugaa-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-52" href="Text/AbuShugaa-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-53" href="Text/AbuShugaa-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-54" href="Text/AbuShugaa-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-55" href="Text/AbuShugaa-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-56" href="Text/AbuShugaa-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-57" href="Text/AbuShugaa-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-58" href="Text/AbuShugaa-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-59" href="Text/AbuShugaa-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-60" href="Text/AbuShugaa-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-61" href="Text/AbuShugaa-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-62" href="Text/AbuShugaa-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-63" href="Text/AbuShugaa-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-64" href="Text/AbuShugaa-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-65" href="Text/AbuShugaa-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-66" href="Text/AbuShugaa-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-67" href="Text/AbuShugaa-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-68" href="Text/AbuShugaa-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-69" href="Text/AbuShugaa-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-70" href="Text/AbuShugaa-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-71" href="Text/AbuShugaa-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-72" href="Text/AbuShugaa-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-73" href="Text/AbuShugaa-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-74" href="Text/AbuShugaa-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-75" href="Text/AbuShugaa-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-76" href="Text/AbuShugaa-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-77" href="Text/AbuShugaa-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-78" href="Text/AbuShugaa-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-79" href="Text/AbuShugaa-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-80" href="Text/AbuShugaa-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-81" href="Text/AbuShugaa-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-82" href="Text/AbuShugaa-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-83" href="Text/AbuShugaa-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-84" href="Text/AbuShugaa-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-85" href="Text/AbuShugaa-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-86" href="Text/AbuShugaa-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-87" href="Text/AbuShugaa-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-88" href="Text/AbuShugaa-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-89" href="Text/AbuShugaa-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-90" href="Text/AbuShugaa-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-91" href="Text/AbuShugaa-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-92" href="Text/AbuShugaa-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-93" href="Text/AbuShugaa-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-94" href="Text/AbuShugaa-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-95" href="Text/AbuShugaa-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-96" href="Text/AbuShugaa-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-97" href="Text/AbuShugaa-97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-98" href="Text/AbuShugaa-98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-99" href="Text/AbuShugaa-99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-100" href="Text/AbuShugaa-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-101" href="Text/AbuShugaa-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-102" href="Text/AbuShugaa-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-103" href="Text/AbuShugaa-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-104" href="Text/AbuShugaa-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-105" href="Text/AbuShugaa-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-106" href="Text/AbuShugaa-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-107" href="Text/AbuShugaa-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-108" href="Text/AbuShugaa-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-109" href="Text/AbuShugaa-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-110" href="Text/AbuShugaa-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-111" href="Text/AbuShugaa-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-112" href="Text/AbuShugaa-112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-113" href="Text/AbuShugaa-113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-114" href="Text/AbuShugaa-114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-115" href="Text/AbuShugaa-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-116" href="Text/AbuShugaa-116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-117" href="Text/AbuShugaa-117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-118" href="Text/AbuShugaa-118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-119" href="Text/AbuShugaa-119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-120" href="Text/AbuShugaa-120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-121" href="Text/AbuShugaa-121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-122" href="Text/AbuShugaa-122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-123" href="Text/AbuShugaa-123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-124" href="Text/AbuShugaa-124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-125" href="Text/AbuShugaa-125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-126" href="Text/AbuShugaa-126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-127" href="Text/AbuShugaa-127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-128" href="Text/AbuShugaa-128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-129" href="Text/AbuShugaa-129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-130" href="Text/AbuShugaa-130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-131" href="Text/AbuShugaa-131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-132" href="Text/AbuShugaa-132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-133" href="Text/AbuShugaa-133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-134" href="Text/AbuShugaa-134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-135" href="Text/AbuShugaa-135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-136" href="Text/AbuShugaa-136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-137" href="Text/AbuShugaa-137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-138" href="Text/AbuShugaa-138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-139" href="Text/AbuShugaa-139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-140" href="Text/AbuShugaa-140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-141" href="Text/AbuShugaa-141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-142" href="Text/AbuShugaa-142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-143" href="Text/AbuShugaa-143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-144" href="Text/AbuShugaa-144.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-145" href="Text/AbuShugaa-145.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-146" href="Text/AbuShugaa-146.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-147" href="Text/AbuShugaa-147.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-148" href="Text/AbuShugaa-148.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-149" href="Text/AbuShugaa-149.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-150" href="Text/AbuShugaa-150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-151" href="Text/AbuShugaa-151.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-152" href="Text/AbuShugaa-152.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-153" href="Text/AbuShugaa-153.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-154" href="Text/AbuShugaa-154.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-155" href="Text/AbuShugaa-155.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-156" href="Text/AbuShugaa-156.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-157" href="Text/AbuShugaa-157.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-158" href="Text/AbuShugaa-158.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-159" href="Text/AbuShugaa-159.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-160" href="Text/AbuShugaa-160.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-161" href="Text/AbuShugaa-161.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-162" href="Text/AbuShugaa-162.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-163" href="Text/AbuShugaa-163.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-164" href="Text/AbuShugaa-164.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-165" href="Text/AbuShugaa-165.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-166" href="Text/AbuShugaa-166.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-167" href="Text/AbuShugaa-167.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-168" href="Text/AbuShugaa-168.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-169" href="Text/AbuShugaa-169.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-170" href="Text/AbuShugaa-170.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-171" href="Text/AbuShugaa-171.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-172" href="Text/AbuShugaa-172.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-173" href="Text/AbuShugaa-173.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-174" href="Text/AbuShugaa-174.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-175" href="Text/AbuShugaa-175.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-176" href="Text/AbuShugaa-176.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-177" href="Text/AbuShugaa-177.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-178" href="Text/AbuShugaa-178.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-179" href="Text/AbuShugaa-179.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-180" href="Text/AbuShugaa-180.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-181" href="Text/AbuShugaa-181.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-182" href="Text/AbuShugaa-182.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-183" href="Text/AbuShugaa-183.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-184" href="Text/AbuShugaa-184.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-185" href="Text/AbuShugaa-185.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-186" href="Text/AbuShugaa-186.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-187" href="Text/AbuShugaa-187.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-188" href="Text/AbuShugaa-188.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-189" href="Text/AbuShugaa-189.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-190" href="Text/AbuShugaa-190.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-191" href="Text/AbuShugaa-191.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-192" href="Text/AbuShugaa-192.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-193" href="Text/AbuShugaa-193.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-194" href="Text/AbuShugaa-194.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-195" href="Text/AbuShugaa-195.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-196" href="Text/AbuShugaa-196.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-197" href="Text/AbuShugaa-197.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-198" href="Text/AbuShugaa-198.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-199" href="Text/AbuShugaa-199.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-200" href="Text/AbuShugaa-200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-201" href="Text/AbuShugaa-201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-202" href="Text/AbuShugaa-202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-203" href="Text/AbuShugaa-203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-204" href="Text/AbuShugaa-204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-205" href="Text/AbuShugaa-205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-206" href="Text/AbuShugaa-206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-207" href="Text/AbuShugaa-207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-208" href="Text/AbuShugaa-208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-209" href="Text/AbuShugaa-209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-210" href="Text/AbuShugaa-210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-211" href="Text/AbuShugaa-211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-212" href="Text/AbuShugaa-212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-213" href="Text/AbuShugaa-213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-214" href="Text/AbuShugaa-214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-215" href="Text/AbuShugaa-215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-216" href="Text/AbuShugaa-216.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-217" href="Text/AbuShugaa-217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-218" href="Text/AbuShugaa-218.xhtml" media-type="application/xhtml+xml"/>
+    <item id="AbuShugaa-219" href="Text/AbuShugaa-219.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="general-ithraa-template-v2.css" href="css/general-ithraa-template-v2.css" media-type="text/css"/>
+    <item id="x1.png" href="image/1.png" media-type="image/png"/>
+    <item id="x2.png" href="image/2.png" media-type="image/png"/>
+    <item id="x3.png" href="image/3.png" media-type="image/png"/>
+    <item id="x4.png" href="image/4.png" media-type="image/png"/>
+    <item id="AbuShugaa-Cover.jpg" href="image/AbuShugaa-Cover.jpg" media-type="image/jpeg"/>
+    <item id="general-ithraa-template-v2.js" href="Misc/general-ithraa-template-v2.js" media-type="application/javascript"/>
+    <item id="UthmanicHafs1-Ver09.otf" href="Fonts/UthmanicHafs1-Ver09.otf" media-type="font/otf"/>
+    <item id="WMG-AGA-Arabesque.otf" href="Fonts/WMG-AGA-Arabesque.otf" media-type="font/otf"/>
+    <item id="WMG-Harf-Fannan.otf" href="Fonts/WMG-Harf-Fannan.otf" media-type="font/otf"/>
+    <item id="WMG-KFGQPCArabicSymbols01.otf" href="Fonts/WMG-KFGQPCArabicSymbols01.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Bold.otf" href="Fonts/WMG-Lotus-Bold.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
+    <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
+  </manifest>
+  <spine toc="ncx"  page-progression-direction="rtl">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="AbuShugaa"/>
+    <itemref idref="AbuShugaa-1"/>
+    <itemref idref="AbuShugaa-2"/>
+    <itemref idref="AbuShugaa-3"/>
+    <itemref idref="AbuShugaa-4"/>
+    <itemref idref="AbuShugaa-5"/>
+    <itemref idref="AbuShugaa-6"/>
+    <itemref idref="AbuShugaa-7"/>
+    <itemref idref="AbuShugaa-8"/>
+    <itemref idref="AbuShugaa-9"/>
+    <itemref idref="AbuShugaa-10"/>
+    <itemref idref="AbuShugaa-11"/>
+    <itemref idref="AbuShugaa-12"/>
+    <itemref idref="AbuShugaa-13"/>
+    <itemref idref="AbuShugaa-14"/>
+    <itemref idref="AbuShugaa-15"/>
+    <itemref idref="AbuShugaa-16"/>
+    <itemref idref="AbuShugaa-17"/>
+    <itemref idref="AbuShugaa-18"/>
+    <itemref idref="AbuShugaa-19"/>
+    <itemref idref="AbuShugaa-20"/>
+    <itemref idref="AbuShugaa-21"/>
+    <itemref idref="AbuShugaa-22"/>
+    <itemref idref="AbuShugaa-23"/>
+    <itemref idref="AbuShugaa-24"/>
+    <itemref idref="AbuShugaa-25"/>
+    <itemref idref="AbuShugaa-26"/>
+    <itemref idref="AbuShugaa-27"/>
+    <itemref idref="AbuShugaa-28"/>
+    <itemref idref="AbuShugaa-29"/>
+    <itemref idref="AbuShugaa-30"/>
+    <itemref idref="AbuShugaa-31"/>
+    <itemref idref="AbuShugaa-32"/>
+    <itemref idref="AbuShugaa-33"/>
+    <itemref idref="AbuShugaa-34"/>
+    <itemref idref="AbuShugaa-35"/>
+    <itemref idref="AbuShugaa-36"/>
+    <itemref idref="AbuShugaa-37"/>
+    <itemref idref="AbuShugaa-38"/>
+    <itemref idref="AbuShugaa-39"/>
+    <itemref idref="AbuShugaa-40"/>
+    <itemref idref="AbuShugaa-41"/>
+    <itemref idref="AbuShugaa-42"/>
+    <itemref idref="AbuShugaa-43"/>
+    <itemref idref="AbuShugaa-44"/>
+    <itemref idref="AbuShugaa-45"/>
+    <itemref idref="AbuShugaa-46"/>
+    <itemref idref="AbuShugaa-47"/>
+    <itemref idref="AbuShugaa-48"/>
+    <itemref idref="AbuShugaa-49"/>
+    <itemref idref="AbuShugaa-50"/>
+    <itemref idref="AbuShugaa-51"/>
+    <itemref idref="AbuShugaa-52"/>
+    <itemref idref="AbuShugaa-53"/>
+    <itemref idref="AbuShugaa-54"/>
+    <itemref idref="AbuShugaa-55"/>
+    <itemref idref="AbuShugaa-56"/>
+    <itemref idref="AbuShugaa-57"/>
+    <itemref idref="AbuShugaa-58"/>
+    <itemref idref="AbuShugaa-59"/>
+    <itemref idref="AbuShugaa-60"/>
+    <itemref idref="AbuShugaa-61"/>
+    <itemref idref="AbuShugaa-62"/>
+    <itemref idref="AbuShugaa-63"/>
+    <itemref idref="AbuShugaa-64"/>
+    <itemref idref="AbuShugaa-65"/>
+    <itemref idref="AbuShugaa-66"/>
+    <itemref idref="AbuShugaa-67"/>
+    <itemref idref="AbuShugaa-68"/>
+    <itemref idref="AbuShugaa-69"/>
+    <itemref idref="AbuShugaa-70"/>
+    <itemref idref="AbuShugaa-71"/>
+    <itemref idref="AbuShugaa-72"/>
+    <itemref idref="AbuShugaa-73"/>
+    <itemref idref="AbuShugaa-74"/>
+    <itemref idref="AbuShugaa-75"/>
+    <itemref idref="AbuShugaa-76"/>
+    <itemref idref="AbuShugaa-77"/>
+    <itemref idref="AbuShugaa-78"/>
+    <itemref idref="AbuShugaa-79"/>
+    <itemref idref="AbuShugaa-80"/>
+    <itemref idref="AbuShugaa-81"/>
+    <itemref idref="AbuShugaa-82"/>
+    <itemref idref="AbuShugaa-83"/>
+    <itemref idref="AbuShugaa-84"/>
+    <itemref idref="AbuShugaa-85"/>
+    <itemref idref="AbuShugaa-86"/>
+    <itemref idref="AbuShugaa-87"/>
+    <itemref idref="AbuShugaa-88"/>
+    <itemref idref="AbuShugaa-89"/>
+    <itemref idref="AbuShugaa-90"/>
+    <itemref idref="AbuShugaa-91"/>
+    <itemref idref="AbuShugaa-92"/>
+    <itemref idref="AbuShugaa-93"/>
+    <itemref idref="AbuShugaa-94"/>
+    <itemref idref="AbuShugaa-95"/>
+    <itemref idref="AbuShugaa-96"/>
+    <itemref idref="AbuShugaa-97"/>
+    <itemref idref="AbuShugaa-98"/>
+    <itemref idref="AbuShugaa-99"/>
+    <itemref idref="AbuShugaa-100"/>
+    <itemref idref="AbuShugaa-101"/>
+    <itemref idref="AbuShugaa-102"/>
+    <itemref idref="AbuShugaa-103"/>
+    <itemref idref="AbuShugaa-104"/>
+    <itemref idref="AbuShugaa-105"/>
+    <itemref idref="AbuShugaa-106"/>
+    <itemref idref="AbuShugaa-107"/>
+    <itemref idref="AbuShugaa-108"/>
+    <itemref idref="AbuShugaa-109"/>
+    <itemref idref="AbuShugaa-110"/>
+    <itemref idref="AbuShugaa-111"/>
+    <itemref idref="AbuShugaa-112"/>
+    <itemref idref="AbuShugaa-113"/>
+    <itemref idref="AbuShugaa-114"/>
+    <itemref idref="AbuShugaa-115"/>
+    <itemref idref="AbuShugaa-116"/>
+    <itemref idref="AbuShugaa-117"/>
+    <itemref idref="AbuShugaa-118"/>
+    <itemref idref="AbuShugaa-119"/>
+    <itemref idref="AbuShugaa-120"/>
+    <itemref idref="AbuShugaa-121"/>
+    <itemref idref="AbuShugaa-122"/>
+    <itemref idref="AbuShugaa-123"/>
+    <itemref idref="AbuShugaa-124"/>
+    <itemref idref="AbuShugaa-125"/>
+    <itemref idref="AbuShugaa-126"/>
+    <itemref idref="AbuShugaa-127"/>
+    <itemref idref="AbuShugaa-128"/>
+    <itemref idref="AbuShugaa-129"/>
+    <itemref idref="AbuShugaa-130"/>
+    <itemref idref="AbuShugaa-131"/>
+    <itemref idref="AbuShugaa-132"/>
+    <itemref idref="AbuShugaa-133"/>
+    <itemref idref="AbuShugaa-134"/>
+    <itemref idref="AbuShugaa-135"/>
+    <itemref idref="AbuShugaa-136"/>
+    <itemref idref="AbuShugaa-137"/>
+    <itemref idref="AbuShugaa-138"/>
+    <itemref idref="AbuShugaa-139"/>
+    <itemref idref="AbuShugaa-140"/>
+    <itemref idref="AbuShugaa-141"/>
+    <itemref idref="AbuShugaa-142"/>
+    <itemref idref="AbuShugaa-143"/>
+    <itemref idref="AbuShugaa-144"/>
+    <itemref idref="AbuShugaa-145"/>
+    <itemref idref="AbuShugaa-146"/>
+    <itemref idref="AbuShugaa-147"/>
+    <itemref idref="AbuShugaa-148"/>
+    <itemref idref="AbuShugaa-149"/>
+    <itemref idref="AbuShugaa-150"/>
+    <itemref idref="AbuShugaa-151"/>
+    <itemref idref="AbuShugaa-152"/>
+    <itemref idref="AbuShugaa-153"/>
+    <itemref idref="AbuShugaa-154"/>
+    <itemref idref="AbuShugaa-155"/>
+    <itemref idref="AbuShugaa-156"/>
+    <itemref idref="AbuShugaa-157"/>
+    <itemref idref="AbuShugaa-158"/>
+    <itemref idref="AbuShugaa-159"/>
+    <itemref idref="AbuShugaa-160"/>
+    <itemref idref="AbuShugaa-161"/>
+    <itemref idref="AbuShugaa-162"/>
+    <itemref idref="AbuShugaa-163"/>
+    <itemref idref="AbuShugaa-164"/>
+    <itemref idref="AbuShugaa-165"/>
+    <itemref idref="AbuShugaa-166"/>
+    <itemref idref="AbuShugaa-167"/>
+    <itemref idref="AbuShugaa-168"/>
+    <itemref idref="AbuShugaa-169"/>
+    <itemref idref="AbuShugaa-170"/>
+    <itemref idref="AbuShugaa-171"/>
+    <itemref idref="AbuShugaa-172"/>
+    <itemref idref="AbuShugaa-173"/>
+    <itemref idref="AbuShugaa-174"/>
+    <itemref idref="AbuShugaa-175"/>
+    <itemref idref="AbuShugaa-176"/>
+    <itemref idref="AbuShugaa-177"/>
+    <itemref idref="AbuShugaa-178"/>
+    <itemref idref="AbuShugaa-179"/>
+    <itemref idref="AbuShugaa-180"/>
+    <itemref idref="AbuShugaa-181"/>
+    <itemref idref="AbuShugaa-182"/>
+    <itemref idref="AbuShugaa-183"/>
+    <itemref idref="AbuShugaa-184"/>
+    <itemref idref="AbuShugaa-185"/>
+    <itemref idref="AbuShugaa-186"/>
+    <itemref idref="AbuShugaa-187"/>
+    <itemref idref="AbuShugaa-188"/>
+    <itemref idref="AbuShugaa-189"/>
+    <itemref idref="AbuShugaa-190"/>
+    <itemref idref="AbuShugaa-191"/>
+    <itemref idref="AbuShugaa-192"/>
+    <itemref idref="AbuShugaa-193"/>
+    <itemref idref="AbuShugaa-194"/>
+    <itemref idref="AbuShugaa-195"/>
+    <itemref idref="AbuShugaa-196"/>
+    <itemref idref="AbuShugaa-197"/>
+    <itemref idref="AbuShugaa-198"/>
+    <itemref idref="AbuShugaa-199"/>
+    <itemref idref="AbuShugaa-200"/>
+    <itemref idref="AbuShugaa-201"/>
+    <itemref idref="AbuShugaa-202"/>
+    <itemref idref="AbuShugaa-203"/>
+    <itemref idref="AbuShugaa-204"/>
+    <itemref idref="AbuShugaa-205"/>
+    <itemref idref="AbuShugaa-206"/>
+    <itemref idref="AbuShugaa-207"/>
+    <itemref idref="AbuShugaa-208"/>
+    <itemref idref="AbuShugaa-209"/>
+    <itemref idref="AbuShugaa-210"/>
+    <itemref idref="AbuShugaa-211"/>
+    <itemref idref="AbuShugaa-212"/>
+    <itemref idref="AbuShugaa-213"/>
+    <itemref idref="AbuShugaa-214"/>
+    <itemref idref="AbuShugaa-215"/>
+    <itemref idref="AbuShugaa-216"/>
+    <itemref idref="AbuShugaa-217"/>
+    <itemref idref="AbuShugaa-218"/>
+    <itemref idref="AbuShugaa-219"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

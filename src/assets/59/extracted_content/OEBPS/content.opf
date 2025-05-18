@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="generator" content="Adobe InDesign 18.5.1"/>
+    <dc:title>المنتقى من القواعد الفقهية</dc:title>
+    <dc:creator>شركة إثراء المتون</dc:creator>
+    <dc:subject>الفقه</dc:subject>
+    <dc:description/>
+    <dc:publisher/>
+    <dc:date>2025-03-10T14:21:33Z</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights>شركة إثراء المتون</dc:rights>
+    <dc:language>ar</dc:language>
+    <meta name="Sigil version" content="2.0.1"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2025-03-10</dc:date>
+    <meta name="cover" content="MuntaqaQawaedCover.png"/>
+    <dc:identifier id="bookid">urn:uuid:e7eeafaa-4753-40fd-b5c8-b35516b268e8</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed" href="Text/MuntaqaQawaed.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-1" href="Text/MuntaqaQawaed-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-2" href="Text/MuntaqaQawaed-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-3" href="Text/MuntaqaQawaed-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-4" href="Text/MuntaqaQawaed-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-5" href="Text/MuntaqaQawaed-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-6" href="Text/MuntaqaQawaed-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-7" href="Text/MuntaqaQawaed-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-8" href="Text/MuntaqaQawaed-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-9" href="Text/MuntaqaQawaed-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-10" href="Text/MuntaqaQawaed-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-11" href="Text/MuntaqaQawaed-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-12" href="Text/MuntaqaQawaed-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-13" href="Text/MuntaqaQawaed-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-14" href="Text/MuntaqaQawaed-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-15" href="Text/MuntaqaQawaed-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-16" href="Text/MuntaqaQawaed-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-17" href="Text/MuntaqaQawaed-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-18" href="Text/MuntaqaQawaed-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-19" href="Text/MuntaqaQawaed-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-20" href="Text/MuntaqaQawaed-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-21" href="Text/MuntaqaQawaed-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-22" href="Text/MuntaqaQawaed-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-23" href="Text/MuntaqaQawaed-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-24" href="Text/MuntaqaQawaed-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-25" href="Text/MuntaqaQawaed-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-26" href="Text/MuntaqaQawaed-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-27" href="Text/MuntaqaQawaed-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-28" href="Text/MuntaqaQawaed-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-29" href="Text/MuntaqaQawaed-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-30" href="Text/MuntaqaQawaed-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-31" href="Text/MuntaqaQawaed-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-32" href="Text/MuntaqaQawaed-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-33" href="Text/MuntaqaQawaed-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-34" href="Text/MuntaqaQawaed-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-35" href="Text/MuntaqaQawaed-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-36" href="Text/MuntaqaQawaed-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-37" href="Text/MuntaqaQawaed-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-38" href="Text/MuntaqaQawaed-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-39" href="Text/MuntaqaQawaed-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-40" href="Text/MuntaqaQawaed-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-41" href="Text/MuntaqaQawaed-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-42" href="Text/MuntaqaQawaed-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-43" href="Text/MuntaqaQawaed-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-44" href="Text/MuntaqaQawaed-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-45" href="Text/MuntaqaQawaed-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-46" href="Text/MuntaqaQawaed-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-47" href="Text/MuntaqaQawaed-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-48" href="Text/MuntaqaQawaed-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-49" href="Text/MuntaqaQawaed-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-50" href="Text/MuntaqaQawaed-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-51" href="Text/MuntaqaQawaed-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-52" href="Text/MuntaqaQawaed-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-53" href="Text/MuntaqaQawaed-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-54" href="Text/MuntaqaQawaed-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-55" href="Text/MuntaqaQawaed-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-56" href="Text/MuntaqaQawaed-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-57" href="Text/MuntaqaQawaed-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-58" href="Text/MuntaqaQawaed-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-59" href="Text/MuntaqaQawaed-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-60" href="Text/MuntaqaQawaed-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-61" href="Text/MuntaqaQawaed-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-62" href="Text/MuntaqaQawaed-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-63" href="Text/MuntaqaQawaed-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-64" href="Text/MuntaqaQawaed-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-65" href="Text/MuntaqaQawaed-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-66" href="Text/MuntaqaQawaed-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-67" href="Text/MuntaqaQawaed-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-68" href="Text/MuntaqaQawaed-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-69" href="Text/MuntaqaQawaed-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-70" href="Text/MuntaqaQawaed-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-71" href="Text/MuntaqaQawaed-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-72" href="Text/MuntaqaQawaed-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-73" href="Text/MuntaqaQawaed-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-74" href="Text/MuntaqaQawaed-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-75" href="Text/MuntaqaQawaed-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-76" href="Text/MuntaqaQawaed-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-77" href="Text/MuntaqaQawaed-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-78" href="Text/MuntaqaQawaed-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-79" href="Text/MuntaqaQawaed-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-80" href="Text/MuntaqaQawaed-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-81" href="Text/MuntaqaQawaed-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-82" href="Text/MuntaqaQawaed-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-83" href="Text/MuntaqaQawaed-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-84" href="Text/MuntaqaQawaed-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-85" href="Text/MuntaqaQawaed-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-86" href="Text/MuntaqaQawaed-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-87" href="Text/MuntaqaQawaed-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-88" href="Text/MuntaqaQawaed-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-89" href="Text/MuntaqaQawaed-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-90" href="Text/MuntaqaQawaed-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-91" href="Text/MuntaqaQawaed-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-92" href="Text/MuntaqaQawaed-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-93" href="Text/MuntaqaQawaed-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-94" href="Text/MuntaqaQawaed-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-95" href="Text/MuntaqaQawaed-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-96" href="Text/MuntaqaQawaed-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-97" href="Text/MuntaqaQawaed-97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-98" href="Text/MuntaqaQawaed-98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-99" href="Text/MuntaqaQawaed-99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-100" href="Text/MuntaqaQawaed-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-101" href="Text/MuntaqaQawaed-101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-102" href="Text/MuntaqaQawaed-102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-103" href="Text/MuntaqaQawaed-103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-104" href="Text/MuntaqaQawaed-104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-105" href="Text/MuntaqaQawaed-105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-106" href="Text/MuntaqaQawaed-106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-107" href="Text/MuntaqaQawaed-107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-108" href="Text/MuntaqaQawaed-108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-109" href="Text/MuntaqaQawaed-109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-110" href="Text/MuntaqaQawaed-110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-111" href="Text/MuntaqaQawaed-111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-112" href="Text/MuntaqaQawaed-112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-113" href="Text/MuntaqaQawaed-113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-114" href="Text/MuntaqaQawaed-114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-115" href="Text/MuntaqaQawaed-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-116" href="Text/MuntaqaQawaed-116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-117" href="Text/MuntaqaQawaed-117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-118" href="Text/MuntaqaQawaed-118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-119" href="Text/MuntaqaQawaed-119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-120" href="Text/MuntaqaQawaed-120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-121" href="Text/MuntaqaQawaed-121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-122" href="Text/MuntaqaQawaed-122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-123" href="Text/MuntaqaQawaed-123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-124" href="Text/MuntaqaQawaed-124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-125" href="Text/MuntaqaQawaed-125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-126" href="Text/MuntaqaQawaed-126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-127" href="Text/MuntaqaQawaed-127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-128" href="Text/MuntaqaQawaed-128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-129" href="Text/MuntaqaQawaed-129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-130" href="Text/MuntaqaQawaed-130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-131" href="Text/MuntaqaQawaed-131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-132" href="Text/MuntaqaQawaed-132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-133" href="Text/MuntaqaQawaed-133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-134" href="Text/MuntaqaQawaed-134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-135" href="Text/MuntaqaQawaed-135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-136" href="Text/MuntaqaQawaed-136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-137" href="Text/MuntaqaQawaed-137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-138" href="Text/MuntaqaQawaed-138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-139" href="Text/MuntaqaQawaed-139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-140" href="Text/MuntaqaQawaed-140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-141" href="Text/MuntaqaQawaed-141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-142" href="Text/MuntaqaQawaed-142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-143" href="Text/MuntaqaQawaed-143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-144" href="Text/MuntaqaQawaed-144.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-145" href="Text/MuntaqaQawaed-145.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-146" href="Text/MuntaqaQawaed-146.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-147" href="Text/MuntaqaQawaed-147.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-148" href="Text/MuntaqaQawaed-148.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-149" href="Text/MuntaqaQawaed-149.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-150" href="Text/MuntaqaQawaed-150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-151" href="Text/MuntaqaQawaed-151.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-152" href="Text/MuntaqaQawaed-152.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-153" href="Text/MuntaqaQawaed-153.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-154" href="Text/MuntaqaQawaed-154.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-155" href="Text/MuntaqaQawaed-155.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-156" href="Text/MuntaqaQawaed-156.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-157" href="Text/MuntaqaQawaed-157.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-158" href="Text/MuntaqaQawaed-158.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-159" href="Text/MuntaqaQawaed-159.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-160" href="Text/MuntaqaQawaed-160.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-161" href="Text/MuntaqaQawaed-161.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-162" href="Text/MuntaqaQawaed-162.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-163" href="Text/MuntaqaQawaed-163.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-164" href="Text/MuntaqaQawaed-164.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-165" href="Text/MuntaqaQawaed-165.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-166" href="Text/MuntaqaQawaed-166.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-167" href="Text/MuntaqaQawaed-167.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-168" href="Text/MuntaqaQawaed-168.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-169" href="Text/MuntaqaQawaed-169.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-170" href="Text/MuntaqaQawaed-170.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-171" href="Text/MuntaqaQawaed-171.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-172" href="Text/MuntaqaQawaed-172.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-173" href="Text/MuntaqaQawaed-173.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-174" href="Text/MuntaqaQawaed-174.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-175" href="Text/MuntaqaQawaed-175.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-176" href="Text/MuntaqaQawaed-176.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-177" href="Text/MuntaqaQawaed-177.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-178" href="Text/MuntaqaQawaed-178.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-179" href="Text/MuntaqaQawaed-179.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-180" href="Text/MuntaqaQawaed-180.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-181" href="Text/MuntaqaQawaed-181.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-182" href="Text/MuntaqaQawaed-182.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-183" href="Text/MuntaqaQawaed-183.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-184" href="Text/MuntaqaQawaed-184.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-185" href="Text/MuntaqaQawaed-185.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-186" href="Text/MuntaqaQawaed-186.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-187" href="Text/MuntaqaQawaed-187.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-188" href="Text/MuntaqaQawaed-188.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-189" href="Text/MuntaqaQawaed-189.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-190" href="Text/MuntaqaQawaed-190.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-191" href="Text/MuntaqaQawaed-191.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-192" href="Text/MuntaqaQawaed-192.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-193" href="Text/MuntaqaQawaed-193.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-194" href="Text/MuntaqaQawaed-194.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-195" href="Text/MuntaqaQawaed-195.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-196" href="Text/MuntaqaQawaed-196.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-197" href="Text/MuntaqaQawaed-197.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-198" href="Text/MuntaqaQawaed-198.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-199" href="Text/MuntaqaQawaed-199.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-200" href="Text/MuntaqaQawaed-200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-201" href="Text/MuntaqaQawaed-201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-202" href="Text/MuntaqaQawaed-202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-203" href="Text/MuntaqaQawaed-203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-204" href="Text/MuntaqaQawaed-204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-205" href="Text/MuntaqaQawaed-205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-206" href="Text/MuntaqaQawaed-206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-207" href="Text/MuntaqaQawaed-207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-208" href="Text/MuntaqaQawaed-208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-209" href="Text/MuntaqaQawaed-209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-210" href="Text/MuntaqaQawaed-210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-211" href="Text/MuntaqaQawaed-211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-212" href="Text/MuntaqaQawaed-212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-213" href="Text/MuntaqaQawaed-213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-214" href="Text/MuntaqaQawaed-214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-215" href="Text/MuntaqaQawaed-215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-216" href="Text/MuntaqaQawaed-216.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-217" href="Text/MuntaqaQawaed-217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-218" href="Text/MuntaqaQawaed-218.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-219" href="Text/MuntaqaQawaed-219.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-220" href="Text/MuntaqaQawaed-220.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-221" href="Text/MuntaqaQawaed-221.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-222" href="Text/MuntaqaQawaed-222.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-223" href="Text/MuntaqaQawaed-223.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-224" href="Text/MuntaqaQawaed-224.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-225" href="Text/MuntaqaQawaed-225.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-226" href="Text/MuntaqaQawaed-226.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-227" href="Text/MuntaqaQawaed-227.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-228" href="Text/MuntaqaQawaed-228.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-229" href="Text/MuntaqaQawaed-229.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-230" href="Text/MuntaqaQawaed-230.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-231" href="Text/MuntaqaQawaed-231.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-232" href="Text/MuntaqaQawaed-232.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-233" href="Text/MuntaqaQawaed-233.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-234" href="Text/MuntaqaQawaed-234.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-235" href="Text/MuntaqaQawaed-235.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-236" href="Text/MuntaqaQawaed-236.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-237" href="Text/MuntaqaQawaed-237.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-238" href="Text/MuntaqaQawaed-238.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-239" href="Text/MuntaqaQawaed-239.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-240" href="Text/MuntaqaQawaed-240.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-241" href="Text/MuntaqaQawaed-241.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-242" href="Text/MuntaqaQawaed-242.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-243" href="Text/MuntaqaQawaed-243.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-244" href="Text/MuntaqaQawaed-244.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MuntaqaQawaed-245" href="Text/MuntaqaQawaed-245.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="general-ithraa-template-v2.css" href="css/general-ithraa-template-v2.css" media-type="text/css"/>
+    <item id="x1.png" href="image/1.png" media-type="image/png"/>
+    <item id="x2.png" href="image/2.png" media-type="image/png"/>
+    <item id="x3.png" href="image/3.png" media-type="image/png"/>
+    <item id="x4.png" href="image/4.png" media-type="image/png"/>
+    <item id="x5.png" href="image/5.png" media-type="image/png"/>
+    <item id="balance_symbol.png" href="image/balance_symbol.png" media-type="image/png"/>
+    <item id="diagram.png" href="image/diagram.png" media-type="image/png"/>
+    <item id="gavel_symbol.png" href="image/gavel_symbol.png" media-type="image/png"/>
+    <item id="MuntaqaQawaedCover.png" href="image/MuntaqaQawaedCover.png" media-type="image/png"/>
+    <item id="UthmanicHafs1-Ver09.otf" href="Fonts/UthmanicHafs1-Ver09.otf" media-type="font/otf"/>
+    <item id="WMG-AGA-Arabesque.otf" href="Fonts/WMG-AGA-Arabesque.otf" media-type="font/otf"/>
+    <item id="WMG-Harf-Fannan.otf" href="Fonts/WMG-Harf-Fannan.otf" media-type="font/otf"/>
+    <item id="WMG-KFGQPCArabicSymbols01.otf" href="Fonts/WMG-KFGQPCArabicSymbols01.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Bold.otf" href="Fonts/WMG-Lotus-Bold.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
+    <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
+    <item id="general-ithraa-template-v2.js" href="Misc/general-ithraa-template-v2.js" media-type="application/javascript"/>
+  </manifest>
+  <spine toc="ncx"   page-progression-direction="rtl">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="MuntaqaQawaed"/>
+    <itemref idref="MuntaqaQawaed-1"/>
+    <itemref idref="MuntaqaQawaed-2"/>
+    <itemref idref="MuntaqaQawaed-3"/>
+    <itemref idref="MuntaqaQawaed-4"/>
+    <itemref idref="MuntaqaQawaed-5"/>
+    <itemref idref="MuntaqaQawaed-6"/>
+    <itemref idref="MuntaqaQawaed-7"/>
+    <itemref idref="MuntaqaQawaed-8"/>
+    <itemref idref="MuntaqaQawaed-9"/>
+    <itemref idref="MuntaqaQawaed-10"/>
+    <itemref idref="MuntaqaQawaed-11"/>
+    <itemref idref="MuntaqaQawaed-12"/>
+    <itemref idref="MuntaqaQawaed-13"/>
+    <itemref idref="MuntaqaQawaed-14"/>
+    <itemref idref="MuntaqaQawaed-15"/>
+    <itemref idref="MuntaqaQawaed-16"/>
+    <itemref idref="MuntaqaQawaed-17"/>
+    <itemref idref="MuntaqaQawaed-18"/>
+    <itemref idref="MuntaqaQawaed-19"/>
+    <itemref idref="MuntaqaQawaed-20"/>
+    <itemref idref="MuntaqaQawaed-21"/>
+    <itemref idref="MuntaqaQawaed-22"/>
+    <itemref idref="MuntaqaQawaed-23"/>
+    <itemref idref="MuntaqaQawaed-24"/>
+    <itemref idref="MuntaqaQawaed-25"/>
+    <itemref idref="MuntaqaQawaed-26"/>
+    <itemref idref="MuntaqaQawaed-27"/>
+    <itemref idref="MuntaqaQawaed-28"/>
+    <itemref idref="MuntaqaQawaed-29"/>
+    <itemref idref="MuntaqaQawaed-30"/>
+    <itemref idref="MuntaqaQawaed-31"/>
+    <itemref idref="MuntaqaQawaed-32"/>
+    <itemref idref="MuntaqaQawaed-33"/>
+    <itemref idref="MuntaqaQawaed-34"/>
+    <itemref idref="MuntaqaQawaed-35"/>
+    <itemref idref="MuntaqaQawaed-36"/>
+    <itemref idref="MuntaqaQawaed-37"/>
+    <itemref idref="MuntaqaQawaed-38"/>
+    <itemref idref="MuntaqaQawaed-39"/>
+    <itemref idref="MuntaqaQawaed-40"/>
+    <itemref idref="MuntaqaQawaed-41"/>
+    <itemref idref="MuntaqaQawaed-42"/>
+    <itemref idref="MuntaqaQawaed-43"/>
+    <itemref idref="MuntaqaQawaed-44"/>
+    <itemref idref="MuntaqaQawaed-45"/>
+    <itemref idref="MuntaqaQawaed-46"/>
+    <itemref idref="MuntaqaQawaed-47"/>
+    <itemref idref="MuntaqaQawaed-48"/>
+    <itemref idref="MuntaqaQawaed-49"/>
+    <itemref idref="MuntaqaQawaed-50"/>
+    <itemref idref="MuntaqaQawaed-51"/>
+    <itemref idref="MuntaqaQawaed-52"/>
+    <itemref idref="MuntaqaQawaed-53"/>
+    <itemref idref="MuntaqaQawaed-54"/>
+    <itemref idref="MuntaqaQawaed-55"/>
+    <itemref idref="MuntaqaQawaed-56"/>
+    <itemref idref="MuntaqaQawaed-57"/>
+    <itemref idref="MuntaqaQawaed-58"/>
+    <itemref idref="MuntaqaQawaed-59"/>
+    <itemref idref="MuntaqaQawaed-60"/>
+    <itemref idref="MuntaqaQawaed-61"/>
+    <itemref idref="MuntaqaQawaed-62"/>
+    <itemref idref="MuntaqaQawaed-63"/>
+    <itemref idref="MuntaqaQawaed-64"/>
+    <itemref idref="MuntaqaQawaed-65"/>
+    <itemref idref="MuntaqaQawaed-66"/>
+    <itemref idref="MuntaqaQawaed-67"/>
+    <itemref idref="MuntaqaQawaed-68"/>
+    <itemref idref="MuntaqaQawaed-69"/>
+    <itemref idref="MuntaqaQawaed-70"/>
+    <itemref idref="MuntaqaQawaed-71"/>
+    <itemref idref="MuntaqaQawaed-72"/>
+    <itemref idref="MuntaqaQawaed-73"/>
+    <itemref idref="MuntaqaQawaed-74"/>
+    <itemref idref="MuntaqaQawaed-75"/>
+    <itemref idref="MuntaqaQawaed-76"/>
+    <itemref idref="MuntaqaQawaed-77"/>
+    <itemref idref="MuntaqaQawaed-78"/>
+    <itemref idref="MuntaqaQawaed-79"/>
+    <itemref idref="MuntaqaQawaed-80"/>
+    <itemref idref="MuntaqaQawaed-81"/>
+    <itemref idref="MuntaqaQawaed-82"/>
+    <itemref idref="MuntaqaQawaed-83"/>
+    <itemref idref="MuntaqaQawaed-84"/>
+    <itemref idref="MuntaqaQawaed-85"/>
+    <itemref idref="MuntaqaQawaed-86"/>
+    <itemref idref="MuntaqaQawaed-87"/>
+    <itemref idref="MuntaqaQawaed-88"/>
+    <itemref idref="MuntaqaQawaed-89"/>
+    <itemref idref="MuntaqaQawaed-90"/>
+    <itemref idref="MuntaqaQawaed-91"/>
+    <itemref idref="MuntaqaQawaed-92"/>
+    <itemref idref="MuntaqaQawaed-93"/>
+    <itemref idref="MuntaqaQawaed-94"/>
+    <itemref idref="MuntaqaQawaed-95"/>
+    <itemref idref="MuntaqaQawaed-96"/>
+    <itemref idref="MuntaqaQawaed-97"/>
+    <itemref idref="MuntaqaQawaed-98"/>
+    <itemref idref="MuntaqaQawaed-99"/>
+    <itemref idref="MuntaqaQawaed-100"/>
+    <itemref idref="MuntaqaQawaed-101"/>
+    <itemref idref="MuntaqaQawaed-102"/>
+    <itemref idref="MuntaqaQawaed-103"/>
+    <itemref idref="MuntaqaQawaed-104"/>
+    <itemref idref="MuntaqaQawaed-105"/>
+    <itemref idref="MuntaqaQawaed-106"/>
+    <itemref idref="MuntaqaQawaed-107"/>
+    <itemref idref="MuntaqaQawaed-108"/>
+    <itemref idref="MuntaqaQawaed-109"/>
+    <itemref idref="MuntaqaQawaed-110"/>
+    <itemref idref="MuntaqaQawaed-111"/>
+    <itemref idref="MuntaqaQawaed-112"/>
+    <itemref idref="MuntaqaQawaed-113"/>
+    <itemref idref="MuntaqaQawaed-114"/>
+    <itemref idref="MuntaqaQawaed-115"/>
+    <itemref idref="MuntaqaQawaed-116"/>
+    <itemref idref="MuntaqaQawaed-117"/>
+    <itemref idref="MuntaqaQawaed-118"/>
+    <itemref idref="MuntaqaQawaed-119"/>
+    <itemref idref="MuntaqaQawaed-120"/>
+    <itemref idref="MuntaqaQawaed-121"/>
+    <itemref idref="MuntaqaQawaed-122"/>
+    <itemref idref="MuntaqaQawaed-123"/>
+    <itemref idref="MuntaqaQawaed-124"/>
+    <itemref idref="MuntaqaQawaed-125"/>
+    <itemref idref="MuntaqaQawaed-126"/>
+    <itemref idref="MuntaqaQawaed-127"/>
+    <itemref idref="MuntaqaQawaed-128"/>
+    <itemref idref="MuntaqaQawaed-129"/>
+    <itemref idref="MuntaqaQawaed-130"/>
+    <itemref idref="MuntaqaQawaed-131"/>
+    <itemref idref="MuntaqaQawaed-132"/>
+    <itemref idref="MuntaqaQawaed-133"/>
+    <itemref idref="MuntaqaQawaed-134"/>
+    <itemref idref="MuntaqaQawaed-135"/>
+    <itemref idref="MuntaqaQawaed-136"/>
+    <itemref idref="MuntaqaQawaed-137"/>
+    <itemref idref="MuntaqaQawaed-138"/>
+    <itemref idref="MuntaqaQawaed-139"/>
+    <itemref idref="MuntaqaQawaed-140"/>
+    <itemref idref="MuntaqaQawaed-141"/>
+    <itemref idref="MuntaqaQawaed-142"/>
+    <itemref idref="MuntaqaQawaed-143"/>
+    <itemref idref="MuntaqaQawaed-144"/>
+    <itemref idref="MuntaqaQawaed-145"/>
+    <itemref idref="MuntaqaQawaed-146"/>
+    <itemref idref="MuntaqaQawaed-147"/>
+    <itemref idref="MuntaqaQawaed-148"/>
+    <itemref idref="MuntaqaQawaed-149"/>
+    <itemref idref="MuntaqaQawaed-150"/>
+    <itemref idref="MuntaqaQawaed-151"/>
+    <itemref idref="MuntaqaQawaed-152"/>
+    <itemref idref="MuntaqaQawaed-153"/>
+    <itemref idref="MuntaqaQawaed-154"/>
+    <itemref idref="MuntaqaQawaed-155"/>
+    <itemref idref="MuntaqaQawaed-156"/>
+    <itemref idref="MuntaqaQawaed-157"/>
+    <itemref idref="MuntaqaQawaed-158"/>
+    <itemref idref="MuntaqaQawaed-159"/>
+    <itemref idref="MuntaqaQawaed-160"/>
+    <itemref idref="MuntaqaQawaed-161"/>
+    <itemref idref="MuntaqaQawaed-162"/>
+    <itemref idref="MuntaqaQawaed-163"/>
+    <itemref idref="MuntaqaQawaed-164"/>
+    <itemref idref="MuntaqaQawaed-165"/>
+    <itemref idref="MuntaqaQawaed-166"/>
+    <itemref idref="MuntaqaQawaed-167"/>
+    <itemref idref="MuntaqaQawaed-168"/>
+    <itemref idref="MuntaqaQawaed-169"/>
+    <itemref idref="MuntaqaQawaed-170"/>
+    <itemref idref="MuntaqaQawaed-171"/>
+    <itemref idref="MuntaqaQawaed-172"/>
+    <itemref idref="MuntaqaQawaed-173"/>
+    <itemref idref="MuntaqaQawaed-174"/>
+    <itemref idref="MuntaqaQawaed-175"/>
+    <itemref idref="MuntaqaQawaed-176"/>
+    <itemref idref="MuntaqaQawaed-177"/>
+    <itemref idref="MuntaqaQawaed-178"/>
+    <itemref idref="MuntaqaQawaed-179"/>
+    <itemref idref="MuntaqaQawaed-180"/>
+    <itemref idref="MuntaqaQawaed-181"/>
+    <itemref idref="MuntaqaQawaed-182"/>
+    <itemref idref="MuntaqaQawaed-183"/>
+    <itemref idref="MuntaqaQawaed-184"/>
+    <itemref idref="MuntaqaQawaed-185"/>
+    <itemref idref="MuntaqaQawaed-186"/>
+    <itemref idref="MuntaqaQawaed-187"/>
+    <itemref idref="MuntaqaQawaed-188"/>
+    <itemref idref="MuntaqaQawaed-189"/>
+    <itemref idref="MuntaqaQawaed-190"/>
+    <itemref idref="MuntaqaQawaed-191"/>
+    <itemref idref="MuntaqaQawaed-192"/>
+    <itemref idref="MuntaqaQawaed-193"/>
+    <itemref idref="MuntaqaQawaed-194"/>
+    <itemref idref="MuntaqaQawaed-195"/>
+    <itemref idref="MuntaqaQawaed-196"/>
+    <itemref idref="MuntaqaQawaed-197"/>
+    <itemref idref="MuntaqaQawaed-198"/>
+    <itemref idref="MuntaqaQawaed-199"/>
+    <itemref idref="MuntaqaQawaed-200"/>
+    <itemref idref="MuntaqaQawaed-201"/>
+    <itemref idref="MuntaqaQawaed-202"/>
+    <itemref idref="MuntaqaQawaed-203"/>
+    <itemref idref="MuntaqaQawaed-204"/>
+    <itemref idref="MuntaqaQawaed-205"/>
+    <itemref idref="MuntaqaQawaed-206"/>
+    <itemref idref="MuntaqaQawaed-207"/>
+    <itemref idref="MuntaqaQawaed-208"/>
+    <itemref idref="MuntaqaQawaed-209"/>
+    <itemref idref="MuntaqaQawaed-210"/>
+    <itemref idref="MuntaqaQawaed-211"/>
+    <itemref idref="MuntaqaQawaed-212"/>
+    <itemref idref="MuntaqaQawaed-213"/>
+    <itemref idref="MuntaqaQawaed-214"/>
+    <itemref idref="MuntaqaQawaed-215"/>
+    <itemref idref="MuntaqaQawaed-216"/>
+    <itemref idref="MuntaqaQawaed-217"/>
+    <itemref idref="MuntaqaQawaed-218"/>
+    <itemref idref="MuntaqaQawaed-219"/>
+    <itemref idref="MuntaqaQawaed-220"/>
+    <itemref idref="MuntaqaQawaed-221"/>
+    <itemref idref="MuntaqaQawaed-222"/>
+    <itemref idref="MuntaqaQawaed-223"/>
+    <itemref idref="MuntaqaQawaed-224"/>
+    <itemref idref="MuntaqaQawaed-225"/>
+    <itemref idref="MuntaqaQawaed-226"/>
+    <itemref idref="MuntaqaQawaed-227"/>
+    <itemref idref="MuntaqaQawaed-228"/>
+    <itemref idref="MuntaqaQawaed-229"/>
+    <itemref idref="MuntaqaQawaed-230"/>
+    <itemref idref="MuntaqaQawaed-231"/>
+    <itemref idref="MuntaqaQawaed-232"/>
+    <itemref idref="MuntaqaQawaed-233"/>
+    <itemref idref="MuntaqaQawaed-234"/>
+    <itemref idref="MuntaqaQawaed-235"/>
+    <itemref idref="MuntaqaQawaed-236"/>
+    <itemref idref="MuntaqaQawaed-237"/>
+    <itemref idref="MuntaqaQawaed-238"/>
+    <itemref idref="MuntaqaQawaed-239"/>
+    <itemref idref="MuntaqaQawaed-240"/>
+    <itemref idref="MuntaqaQawaed-241"/>
+    <itemref idref="MuntaqaQawaed-242"/>
+    <itemref idref="MuntaqaQawaed-243"/>
+    <itemref idref="MuntaqaQawaed-244"/>
+    <itemref idref="MuntaqaQawaed-245"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
