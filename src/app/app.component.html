@@ -1,9 +1,17 @@
-<div class="epub-container">
-  <div id="viewer"
-    style="height: 100vh; width: 100%; border: 1px solid #ccc;">
-  </div>
-  <div class="navigation-controls">
-    <button (click)="prevPage()">Previous</button>
-    <button (click)="nextPage()">Next</button>
-  </div>
-</div>
+<mat-drawer-container [hasBackdrop]="false">
+
+  <mat-drawer #drawer mode="over">I'm a drawer</mat-drawer>
+
+
+  <mat-drawer-content>
+    <div class="epub-container">
+      <div id="viewer" style="height: 100vh; width: 100%; border: 1px solid #ccc;">
+      </div>
+      <div class="navigation-controls">
+        <button (click)="prevPage()">Previous</button>
+        <button (click)="nextPage()">Next</button>
+      </div>
+    </div>
+  </mat-drawer-content>
+
+</mat-drawer-container>

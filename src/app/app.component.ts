@@ -1,14 +1,18 @@
 import { isPlatformBrowser } from '@angular/common';
 import { Component, Inject, PLATFORM_ID } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import Epub from 'epubjs';
 import ePub from 'epubjs';
+import { MatSidenavModule } from '@angular/material/sidenav';
+
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [
+    RouterOutlet,
+    MatSidenavModule
+  ],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'epub3';
@@ -24,8 +28,9 @@ export class AppComponent {
     if (this.isBrowser) {
       try {
 
+        this.book = ePub('/assets/2011.epub');
         // this.book = ePub('/assets/moby-dick/OPS/package.opf');
-        this.book = ePub('/assets/26/extracted_content/OEBPS/content.opf');
+        // this.book = Epub('/assets/26/extracted_content/OEBPS/content.opf');
         // this.book = Epub('/assets/43/OEBPS/content.opf');
 
 
@@ -34,10 +39,10 @@ export class AppComponent {
         //   encoding: 'binary',
         //   openAs: 'epub'
         // });
-      
+
         this.rendition = this.book.renderTo('viewer', {
-          flow: 'paginated', // Changed from scrolled-doc for better Safari support
-          // flow: 'scrolled-doc', 
+          // flow: 'paginated', // Changed from scrolled-doc for better Safari support
+          flow: 'scrolled-doc',
           width: '100%',
           height: '100%',
           allowScriptedContent: true,
@@ -70,3 +75,7 @@ export class AppComponent {
     }
   }
 }
+function Epub(arg0: string): any {
+  throw new Error('Function not implemented.');
+}
+
