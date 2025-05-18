@@ -2,17 +2,13 @@ import { isPlatformBrowser } from '@angular/common';
 import { Component, Inject, PLATFORM_ID } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import ePub from 'epubjs';
-import { MatSidenavModule } from '@angular/material/sidenav';
-
+import {MatSidenavModule} from '@angular/material/sidenav';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [
-    RouterOutlet,
-    MatSidenavModule
-  ],
+  imports: [RouterOutlet,MatSidenavModule],
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'epub3';
