@@ -1,12 +1,5 @@
-<?xml 
-version="1.0" 
-encoding="UTF-8"?>
-<package 
-xmlns="http://www.idpf.org/2007/opf" 
-version="3.0" 
-xml:lang="en" 
-unique-identifier="pub-id" 
-prefix="cc: http://creativecommons.org/ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title id="title">Moby-Dick</dc:title>
     <meta refines="#title" property="title-type">main</meta>
@@ -19,29 +12,23 @@ prefix="cc: http://creativecommons.org/ns#">
     <dc:publisher>Harper &amp; Brothers, Publishers</dc:publisher>
     <dc:contributor id="contrib1">Dave Cramer</dc:contributor>
     <meta refines="#contrib1" property="role" scheme="marc:relators">mrk</meta>
-    <dc:rights>This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.</dc:rights>        
+    <dc:rights>This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.</dc:rights>
     <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
     <meta property="cc:attributionURL">http://code.google.com/p/epub-samples/</meta>
   </metadata>
   <manifest>
     <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
-    <item id="font.stix.regular" href="fonts/STIXGeneral.otf"
-      media-type="application/vnd.ms-opentype"/>
-    <item id="font.stix.italic" href="fonts/STIXGeneralItalic.otf"
-      media-type="application/vnd.ms-opentype"/>
-    <item id="font.stix.bold" href="fonts/STIXGeneralBol.otf"
-      media-type="application/vnd.ms-opentype"/>
-    <item id="font.stix.bold.italic" href="fonts/STIXGeneralBolIta.otf"
-      media-type="application/vnd.ms-opentype"/>
+    <item id="font.stix.regular" href="fonts/STIXGeneral.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font.stix.italic" href="fonts/STIXGeneralItalic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font.stix.bold" href="fonts/STIXGeneralBol.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font.stix.bold.italic" href="fonts/STIXGeneralBolIta.otf" media-type="application/vnd.ms-opentype"/>
     <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
-    <item id="cover-image" properties="cover-image" href="images/9780316000000.jpg"
-      media-type="image/jpeg"/>
+    <item id="cover-image" properties="cover-image" href="images/9780316000000.jpg" media-type="image/jpeg"/>
     <item id="style" href="css/stylesheet.css" media-type="text/css"/>
-    <item id="aMoby-Dick_FE_title_page" href="images/Moby-Dick_FE_title_page.jpg"
-      media-type="image/jpeg"/>
+    <item id="aMoby-Dick_FE_title_page" href="images/Moby-Dick_FE_title_page.jpg" media-type="image/jpeg"/>
     <item id="xpreface_001" href="preface_001.xhtml" media-type="application/xhtml+xml"/>
     <item id="xintroduction_001" href="introduction_001.xhtml" media-type="application/xhtml+xml"/>
     <item id="xepigraph_001" href="epigraph_001.xhtml" media-type="application/xhtml+xml"/>

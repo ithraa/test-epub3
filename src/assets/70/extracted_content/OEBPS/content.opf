@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>المنطق</dc:title>
+    <dc:creator>شركة إثراء المتون</dc:creator>
+    <dc:publisher>شركة إثراء المتون</dc:publisher>
+    <dc:date>2024-02-18T15:04:55Z</dc:date>
+    <dc:language>ar</dc:language>
+    <meta property="dcterms:modified">2024-02-18T17:10:19Z</meta>
+    <meta name="generator" content="Adobe InDesign 18.5.1"/>
+    <meta name="cover" content="cover.jpg"/>
+    <dc:identifier id="bookid">urn:uuid:e7eeafaa-4753-40fd-b5c8-b35516b268e8</dc:identifier>
+    <meta name="Sigil version" content="2.0.1"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml" linear="no" />
+    <item id="mantiq" href="Text/mantiq.xhtml" media-type="application/xhtml+xml" properties="scripted" linear="no"/>
+    <item id="mantiq-1" href="Text/mantiq-1.xhtml" media-type="application/xhtml+xml" properties="scripted" linear="no"/>
+    <item id="mantiq-2" href="Text/mantiq-2.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-3" href="Text/mantiq-3.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-4" href="Text/mantiq-4.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-5" href="Text/mantiq-5.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-6" href="Text/mantiq-6.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-7" href="Text/mantiq-7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-8" href="Text/mantiq-8.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-9" href="Text/mantiq-9.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-10" href="Text/mantiq-10.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-11" href="Text/mantiq-11.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-12" href="Text/mantiq-12.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-13" href="Text/mantiq-13.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-14" href="Text/mantiq-14.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-15" href="Text/mantiq-15.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-16" href="Text/mantiq-16.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-17" href="Text/mantiq-17.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-18" href="Text/mantiq-18.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-19" href="Text/mantiq-19.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-20" href="Text/mantiq-20.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-21" href="Text/mantiq-21.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-22" href="Text/mantiq-22.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-23" href="Text/mantiq-23.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-24" href="Text/mantiq-24.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-25" href="Text/mantiq-25.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-26" href="Text/mantiq-26.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-27" href="Text/mantiq-27.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-28" href="Text/mantiq-28.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-29" href="Text/mantiq-29.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-30" href="Text/mantiq-30.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-31" href="Text/mantiq-31.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-32" href="Text/mantiq-32.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-33" href="Text/mantiq-33.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-34" href="Text/mantiq-34.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-35" href="Text/mantiq-35.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-36" href="Text/mantiq-36.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-37" href="Text/mantiq-37.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-38" href="Text/mantiq-38.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-39" href="Text/mantiq-39.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-40" href="Text/mantiq-40.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-41" href="Text/mantiq-41.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-42" href="Text/mantiq-42.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-43" href="Text/mantiq-43.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-44" href="Text/mantiq-44.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-45" href="Text/mantiq-45.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-46" href="Text/mantiq-46.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-47" href="Text/mantiq-47.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-48" href="Text/mantiq-48.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-49" href="Text/mantiq-49.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-50" href="Text/mantiq-50.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-51" href="Text/mantiq-51.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-52" href="Text/mantiq-52.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-53" href="Text/mantiq-53.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-54" href="Text/mantiq-54.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-55" href="Text/mantiq-55.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-56" href="Text/mantiq-56.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-57" href="Text/mantiq-57.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-58" href="Text/mantiq-58.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-59" href="Text/mantiq-59.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-60" href="Text/mantiq-60.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-61" href="Text/mantiq-61.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-62" href="Text/mantiq-62.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-63" href="Text/mantiq-63.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-64" href="Text/mantiq-64.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-65" href="Text/mantiq-65.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-66" href="Text/mantiq-66.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-67" href="Text/mantiq-67.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-68" href="Text/mantiq-68.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-69" href="Text/mantiq-69.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-70" href="Text/mantiq-70.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-71" href="Text/mantiq-71.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-72" href="Text/mantiq-72.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-73" href="Text/mantiq-73.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-74" href="Text/mantiq-74.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-75" href="Text/mantiq-75.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-76" href="Text/mantiq-76.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-77" href="Text/mantiq-77.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-78" href="Text/mantiq-78.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-79" href="Text/mantiq-79.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-80" href="Text/mantiq-80.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-81" href="Text/mantiq-81.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-82" href="Text/mantiq-82.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-83" href="Text/mantiq-83.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-84" href="Text/mantiq-84.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-85" href="Text/mantiq-85.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-86" href="Text/mantiq-86.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-87" href="Text/mantiq-87.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-88" href="Text/mantiq-88.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-89" href="Text/mantiq-89.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-90" href="Text/mantiq-90.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-91" href="Text/mantiq-91.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-92" href="Text/mantiq-92.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-93" href="Text/mantiq-93.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-94" href="Text/mantiq-94.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-95" href="Text/mantiq-95.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-96" href="Text/mantiq-96.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-97" href="Text/mantiq-97.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-98" href="Text/mantiq-98.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-99" href="Text/mantiq-99.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-100" href="Text/mantiq-100.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-101" href="Text/mantiq-101.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-102" href="Text/mantiq-102.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-103" href="Text/mantiq-103.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-104" href="Text/mantiq-104.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-105" href="Text/mantiq-105.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-106" href="Text/mantiq-106.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-107" href="Text/mantiq-107.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-108" href="Text/mantiq-108.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-109" href="Text/mantiq-109.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-110" href="Text/mantiq-110.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-111" href="Text/mantiq-111.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-112" href="Text/mantiq-112.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-113" href="Text/mantiq-113.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-114" href="Text/mantiq-114.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-115" href="Text/mantiq-115.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-116" href="Text/mantiq-116.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-117" href="Text/mantiq-117.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-118" href="Text/mantiq-118.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-119" href="Text/mantiq-119.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-120" href="Text/mantiq-120.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-121" href="Text/mantiq-121.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-122" href="Text/mantiq-122.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-123" href="Text/mantiq-123.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-124" href="Text/mantiq-124.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-125" href="Text/mantiq-125.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-126" href="Text/mantiq-126.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-127" href="Text/mantiq-127.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-128" href="Text/mantiq-128.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-129" href="Text/mantiq-129.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-130" href="Text/mantiq-130.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-131" href="Text/mantiq-131.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-132" href="Text/mantiq-132.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-133" href="Text/mantiq-133.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-134" href="Text/mantiq-134.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-135" href="Text/mantiq-135.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-136" href="Text/mantiq-136.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-137" href="Text/mantiq-137.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-138" href="Text/mantiq-138.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-139" href="Text/mantiq-139.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-140" href="Text/mantiq-140.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-141" href="Text/mantiq-141.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-142" href="Text/mantiq-142.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-143" href="Text/mantiq-143.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-144" href="Text/mantiq-144.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-145" href="Text/mantiq-145.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-146" href="Text/mantiq-146.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-147" href="Text/mantiq-147.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-148" href="Text/mantiq-148.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-149" href="Text/mantiq-149.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-150" href="Text/mantiq-150.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-151" href="Text/mantiq-151.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-152" href="Text/mantiq-152.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-153" href="Text/mantiq-153.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-154" href="Text/mantiq-154.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-155" href="Text/mantiq-155.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-156" href="Text/mantiq-156.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-157" href="Text/mantiq-157.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-158" href="Text/mantiq-158.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-159" href="Text/mantiq-159.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-160" href="Text/mantiq-160.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-161" href="Text/mantiq-161.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-162" href="Text/mantiq-162.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-163" href="Text/mantiq-163.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-164" href="Text/mantiq-164.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-165" href="Text/mantiq-165.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-166" href="Text/mantiq-166.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="mantiq-167" href="Text/mantiq-167.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="general-ithraa-template-v2.css" href="css/general-ithraa-template-v2.css" media-type="text/css"/>
+    <item id="animal-duck-white.png" href="image/animal-duck-white.png" media-type="image/png"/>
+    <item id="animal-lion.png" href="image/animal-lion.png" media-type="image/png"/>
+    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="gazelle-human.png" href="image/gazelle-human.png" media-type="image/png"/>
+    <item id="mugtahed-mufti.png" href="image/mugtahed-mufti.png" media-type="image/png"/>
+    <item id="QR_Code1061221432442416828.png" href="image/QR_Code1061221432442416828.png" media-type="image/png"/>
+    <item id="QR_Code82561032211173781.png" href="image/QR_Code82561032211173781.png" media-type="image/png"/>
+    <item id="QR_Code82561032212074812.png" href="image/QR_Code82561032212074812.png" media-type="image/png"/>
+    <item id="QR_Code82561032212575484.png" href="image/QR_Code82561032212575484.png" media-type="image/png"/>
+    <item id="QR_Code82561032213204296.png" href="image/QR_Code82561032213204296.png" media-type="image/png"/>
+    <item id="QR_Code82561032213231265.png" href="image/QR_Code82561032213231265.png" media-type="image/png"/>
+    <item id="QR_Code82561032213242796.png" href="image/QR_Code82561032213242796.png" media-type="image/png"/>
+    <item id="general-ithraa-template-v2.js" href="script/general-ithraa-template-v2.js" media-type="text/javascript"/>
+    <item id="UthmanicHafs1-Ver09.otf" href="Fonts/UthmanicHafs1-Ver09.otf" media-type="font/otf"/>
+    <item id="WMG-AGA-Arabesque.otf" href="Fonts/WMG-AGA-Arabesque.otf" media-type="font/otf"/>
+    <item id="WMG-Harf-Fannan.otf" href="Fonts/WMG-Harf-Fannan.otf" media-type="font/otf"/>
+    <item id="WMG-KFGQPCArabicSymbols01.otf" href="Fonts/WMG-KFGQPCArabicSymbols01.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Bold.otf" href="Fonts/WMG-Lotus-Bold.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
+    <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="rtl">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="mantiq"/>
+    <itemref idref="mantiq-1" />
+    <itemref idref="mantiq-2" linear="no"/>
+    <itemref idref="mantiq-3"/>
+    <itemref idref="mantiq-4"/>
+    <itemref idref="mantiq-5"/>
+    <itemref idref="mantiq-6"/>
+    <itemref idref="mantiq-7"/>
+    <itemref idref="mantiq-8"/>
+    <itemref idref="mantiq-9"/>
+    <itemref idref="mantiq-10"/>
+    <itemref idref="mantiq-11"/>
+    <itemref idref="mantiq-12"/>
+    <itemref idref="mantiq-13"/>
+    <itemref idref="mantiq-14"/>
+    <itemref idref="mantiq-15"/>
+    <itemref idref="mantiq-16"/>
+    <itemref idref="mantiq-17"/>
+    <itemref idref="mantiq-18"/>
+    <itemref idref="mantiq-19"/>
+    <itemref idref="mantiq-20"/>
+    <itemref idref="mantiq-21"/>
+    <itemref idref="mantiq-22"/>
+    <itemref idref="mantiq-23"/>
+    <itemref idref="mantiq-24"/>
+    <itemref idref="mantiq-25"/>
+    <itemref idref="mantiq-26"/>
+    <itemref idref="mantiq-27"/>
+    <itemref idref="mantiq-28"/>
+    <itemref idref="mantiq-29"/>
+    <itemref idref="mantiq-30"/>
+    <itemref idref="mantiq-31"/>
+    <itemref idref="mantiq-32"/>
+    <itemref idref="mantiq-33"/>
+    <itemref idref="mantiq-34"/>
+    <itemref idref="mantiq-35"/>
+    <itemref idref="mantiq-36"/>
+    <itemref idref="mantiq-37"/>
+    <itemref idref="mantiq-38"/>
+    <itemref idref="mantiq-39"/>
+    <itemref idref="mantiq-40"/>
+    <itemref idref="mantiq-41"/>
+    <itemref idref="mantiq-42"/>
+    <itemref idref="mantiq-43"/>
+    <itemref idref="mantiq-44"/>
+    <itemref idref="mantiq-45"/>
+    <itemref idref="mantiq-46"/>
+    <itemref idref="mantiq-47"/>
+    <itemref idref="mantiq-48"/>
+    <itemref idref="mantiq-49"/>
+    <itemref idref="mantiq-50"/>
+    <itemref idref="mantiq-51"/>
+    <itemref idref="mantiq-52"/>
+    <itemref idref="mantiq-53"/>
+    <itemref idref="mantiq-54"/>
+    <itemref idref="mantiq-55"/>
+    <itemref idref="mantiq-56"/>
+    <itemref idref="mantiq-57"/>
+    <itemref idref="mantiq-58"/>
+    <itemref idref="mantiq-59"/>
+    <itemref idref="mantiq-60"/>
+    <itemref idref="mantiq-61"/>
+    <itemref idref="mantiq-62"/>
+    <itemref idref="mantiq-63"/>
+    <itemref idref="mantiq-64"/>
+    <itemref idref="mantiq-65"/>
+    <itemref idref="mantiq-66"/>
+    <itemref idref="mantiq-67"/>
+    <itemref idref="mantiq-68"/>
+    <itemref idref="mantiq-69"/>
+    <itemref idref="mantiq-70"/>
+    <itemref idref="mantiq-71"/>
+    <itemref idref="mantiq-72"/>
+    <itemref idref="mantiq-73"/>
+    <itemref idref="mantiq-74"/>
+    <itemref idref="mantiq-75"/>
+    <itemref idref="mantiq-76"/>
+    <itemref idref="mantiq-77"/>
+    <itemref idref="mantiq-78"/>
+    <itemref idref="mantiq-79"/>
+    <itemref idref="mantiq-80"/>
+    <itemref idref="mantiq-81"/>
+    <itemref idref="mantiq-82"/>
+    <itemref idref="mantiq-83"/>
+    <itemref idref="mantiq-84"/>
+    <itemref idref="mantiq-85"/>
+    <itemref idref="mantiq-86"/>
+    <itemref idref="mantiq-87"/>
+    <itemref idref="mantiq-88"/>
+    <itemref idref="mantiq-89"/>
+    <itemref idref="mantiq-90"/>
+    <itemref idref="mantiq-91"/>
+    <itemref idref="mantiq-92"/>
+    <itemref idref="mantiq-93"/>
+    <itemref idref="mantiq-94"/>
+    <itemref idref="mantiq-95"/>
+    <itemref idref="mantiq-96"/>
+    <itemref idref="mantiq-97"/>
+    <itemref idref="mantiq-98"/>
+    <itemref idref="mantiq-99"/>
+    <itemref idref="mantiq-100"/>
+    <itemref idref="mantiq-101"/>
+    <itemref idref="mantiq-102"/>
+    <itemref idref="mantiq-103"/>
+    <itemref idref="mantiq-104"/>
+    <itemref idref="mantiq-105"/>
+    <itemref idref="mantiq-106"/>
+    <itemref idref="mantiq-107"/>
+    <itemref idref="mantiq-108"/>
+    <itemref idref="mantiq-109"/>
+    <itemref idref="mantiq-110"/>
+    <itemref idref="mantiq-111"/>
+    <itemref idref="mantiq-112"/>
+    <itemref idref="mantiq-113"/>
+    <itemref idref="mantiq-114"/>
+    <itemref idref="mantiq-115"/>
+    <itemref idref="mantiq-116"/>
+    <itemref idref="mantiq-117"/>
+    <itemref idref="mantiq-118"/>
+    <itemref idref="mantiq-119"/>
+    <itemref idref="mantiq-120"/>
+    <itemref idref="mantiq-121"/>
+    <itemref idref="mantiq-122"/>
+    <itemref idref="mantiq-123"/>
+    <itemref idref="mantiq-124"/>
+    <itemref idref="mantiq-125"/>
+    <itemref idref="mantiq-126"/>
+    <itemref idref="mantiq-127"/>
+    <itemref idref="mantiq-128"/>
+    <itemref idref="mantiq-129"/>
+    <itemref idref="mantiq-130"/>
+    <itemref idref="mantiq-131"/>
+    <itemref idref="mantiq-132"/>
+    <itemref idref="mantiq-133"/>
+    <itemref idref="mantiq-134"/>
+    <itemref idref="mantiq-135"/>
+    <itemref idref="mantiq-136"/>
+    <itemref idref="mantiq-137"/>
+    <itemref idref="mantiq-138"/>
+    <itemref idref="mantiq-139"/>
+    <itemref idref="mantiq-140"/>
+    <itemref idref="mantiq-141"/>
+    <itemref idref="mantiq-142"/>
+    <itemref idref="mantiq-143"/>
+    <itemref idref="mantiq-144"/>
+    <itemref idref="mantiq-145"/>
+    <itemref idref="mantiq-146"/>
+    <itemref idref="mantiq-147"/>
+    <itemref idref="mantiq-148"/>
+    <itemref idref="mantiq-149"/>
+    <itemref idref="mantiq-150"/>
+    <itemref idref="mantiq-151"/>
+    <itemref idref="mantiq-152"/>
+    <itemref idref="mantiq-153"/>
+    <itemref idref="mantiq-154"/>
+    <itemref idref="mantiq-155"/>
+    <itemref idref="mantiq-156"/>
+    <itemref idref="mantiq-157"/>
+    <itemref idref="mantiq-158"/>
+    <itemref idref="mantiq-159"/>
+    <itemref idref="mantiq-160"/>
+    <itemref idref="mantiq-161"/>
+    <itemref idref="mantiq-162"/>
+    <itemref idref="mantiq-163"/>
+    <itemref idref="mantiq-164"/>
+    <itemref idref="mantiq-165"/>
+    <itemref idref="mantiq-166"/>
+    <itemref idref="mantiq-167"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

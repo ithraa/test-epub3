@@ -1,0 +1,386 @@
+/*
+قالب إثراء المتون
+الإصدار الثاني
+وهو قالب عام متوافق مع قالب وورد (الإصدار الثاني) وقالب إنديزاين (الإصدار الثاني)؛ لتنسيق الكتب الإلكترونية لمنصة إثراء المتون
+Version: 2.0
+Created by: Hussein Muhammed
+Last Modified Date: 15-02-2024
+*/
+
+@font-face {
+	font-family:"AGA Arabesque";
+	font-style:normal;
+	font-weight:normal;
+	/* src : url("../Fonts/AGA-Arabesque.TTF"); */
+	src : url("../Fonts/WMG-AGA-Arabesque.otf");
+}
+@font-face {
+	font-family:"Harf-Fannan";
+	font-style:normal;
+	font-weight:300;
+	/* src : url("../Fonts/Harf-Fannan.ttf"); */
+	src : url("../Fonts/WMG-Harf-Fannan.otf");
+}
+@font-face {
+	font-family:"KFGQPC Arabic Symbols 01";
+	font-style:normal;
+	font-weight:normal;
+	/* src : url("../Fonts/KFGQPCArabicSymbols01.otf"); */
+	src : url("../Fonts/WMG-KFGQPCArabicSymbols01.otf");
+}
+@font-face {
+	font-family:"KFGQPC Uthmanic Script HAFS";
+	font-style:normal;
+	font-weight:normal;
+	/* src : url("../Fonts/KFGQPCUthmanicScriptHAFS.otf"); */
+	src : url("../Fonts/UthmanicHafs1-Ver09.otf");
+}
+@font-face {
+	font-family:"Qadi Linotype";
+	font-style:normal;
+	font-weight:normal;
+	/* src : url("../Fonts/QadiLinotype.otf"); */
+	src : url("../Fonts/WMG-QadiLinotype.otf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:bold;
+	/* src : url("../Fonts/TimesNewRomanPS-BoldMT.ttf"); */
+	src : url("../Fonts/WMG-Lotus-Bold.otf");
+}
+@font-face {
+	font-family:"Times New Roman";
+	font-style:normal;
+	font-weight:normal;
+	/* src : url("../Fonts/TimesNewRomanPSMT.ttf"); */
+	src : url("../Fonts/WMG-Lotus-Light.otf");
+}
+@font-face {
+	font-family:"louts shamy";
+	font-style:normal;
+	font-weight:300;
+	/* src : url("../Fonts/louts-shamy.ttf"); */
+	src : url("../Fonts/WMG-Lotus-Light.otf");
+}
+@font-face {
+	font-family:"louts shamy";
+	font-style:normal;
+	font-weight:bold;
+	/* src : url("../Fonts/louts-shamy-Bold.ttf"); */
+	src : url("../Fonts/WMG-Lotus-Bold.otf");
+}
+
+
+:root {
+	--socondColor: #00a4b5;
+  }
+
+
+/*-------- Over The Book --------*/
+* {	direction: rtl;
+	margin: 0;
+    padding: 0;
+    outline:0;
+	font-weight: normal;
+	font-variant-ligatures: none;}
+
+html {font-size: 20px}
+
+body {margin: 20px}
+/*--------------------------------*/
+
+
+/*--------- First Pages ----------*/
+
+.book-title {
+	font-size: 2rem}
+
+.book-subtitle, .pre-author, .author, .version-number, .center {
+	text-align: center}
+
+.book-title, .author {
+	color: var(--socondColor)}
+
+.book-subtitle, .author {
+	font-family: "Qadi Linotype"}
+
+.pre-author, .version-number {
+	font-weight: bold;
+	padding-top: 150px}
+
+.work-team-head {
+	font-weight: bold;
+	color: white}
+
+/*--------------------------------*/
+
+
+/*----------- Headings -----------*/
+
+h1 {font-size: 1.50rem}
+h2 {font-size: 1.40rem}
+h3 {font-size: 1.30rem}
+h4 {font-size: 1.20rem;
+	margin-bottom: 10px}
+h5 {font-size: 1.10rem}
+h6 {font-size: 1.00rem;
+	padding-right: 1.0rem}
+
+h1, h2, h3, h4 {
+	background-color: #00000010;
+	border-radius: 10px}
+
+h1, h2, h3 {
+	margin-top: 25%;
+	margin-bottom: 5%}
+
+h1, h2, h3, h4, h5, h6, .break-stars, .inline-title, .quran-bracket, .quran-takhreeg {color: var(--socondColor)}
+
+.book-title,h1,h2,h3,h4,.copyright-title, .team-work-title {
+	text-align: center;
+	font-family: "Qadi Linotype";
+	padding-top: 20px;
+	padding-bottom: 20px}
+
+.copyright-title {
+	font-size: 1.00rem;
+	font-weight: bold;
+	padding-right: 1.0rem}
+
+h5 {display: list-item;
+	list-style-type: square;
+	margin-right: 1em}
+
+h5, h6 {
+	text-align: right;
+	font-family: "Qadi Linotype";
+	padding-top: 10px;
+	clear: both}
+
+/*--------------------------------*/
+
+
+/*------ Paragraph Styles --------*/
+
+p {	font-family: "louts shamy";
+    text-align: justify;
+	clear: both}
+
+.basmala-text, .normal-centered, .pre-goals {
+	text-align: center;
+	font-weight: bold}
+
+.pre-goals {
+	color: var(--socondColor);
+	padding: 10px}
+
+.normal {text-indent: 1.0rem}
+.list {text-indent: -1.0rem}
+
+.level1 {padding-right: 1.0rem}
+.level2 {padding-right: 2.0rem}
+.level3 {padding-right: 3.0rem}
+.level4 {padding-right: 4.0rem}
+.level5 {padding-right: 5.0rem}
+.level6 {padding-right: 5.0rem}
+
+/*-----------------*/
+
+.poetry-right {
+	text-align: right;
+	padding-right: 25%}
+.poetry-left {
+	text-align: left;
+	padding-left: 25%}
+.poetry-center {
+	text-align: center}
+
+.footnote, .footnote-continued {
+	font-size: 0.75rem;
+	padding-right: 1rem}
+.footnote {
+	text-indent: -1rem}
+
+.break-stars {
+	font-family: "Qadi Linotype";
+	text-align: center;
+	padding: 10px;
+	clear: both;}
+
+.left {
+	text-align: left}
+
+/*--------------------------------*/
+
+
+/*------ Character Styles --------*/
+
+.quran {
+	font-family: "KFGQPC Uthmanic Script HAFS";
+	font-size: 0.90em;
+	font-weight: bold;
+	font-variant-ligatures: normal}
+
+.quran-takhreeg {
+	font-size: 0.75rem}
+
+.hadeeth, .book-name, .text, .strong, .inline-title {
+	font-weight: bold}
+
+.text {
+	color: darkred}
+
+.underlined {
+	text-decoration-line: underline;
+	text-underline-position: under;
+	text-underline-offset: 4px;
+	text-decoration-thickness: 1px}
+
+.strikethrough {
+	text-decoration: line-through;
+	text-decoration-thickness: 1px}
+
+/*----------Old Styles -----------*/
+
+.basmala-text {color: var(--socondColor)}
+.taareef {color: darkred}
+.daleel-nassy {color: darkgreen}
+.daleel-maanawy {color: darkblue}
+.color-red-bold {
+	font-weight: bold}
+.color-red, .color-red-bold {
+	color: red}
+.color-black {
+	color: black}
+
+.second-color, .form-pbuh, .num-bull-char {
+	color: var(--socondColor)}
+
+.english {font-size: 0.8rem}
+
+.smaller {font-size: 0.7rem}
+
+.framed {
+	border: 1px solid;
+	border-radius: 5px}
+
+.page-number {
+	display: block;
+	text-align: left;
+	background-color: var(--socondColor);
+	font-family: "louts shamy";
+	font-weight: normal;
+	font-size: 18px;
+	color: white;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding-left: 10px}
+.page-number::before {content: " [ ";}
+.page-number::after {content: " ] ";}
+
+/*--------------------------------*/
+
+
+
+/*---------- Tables --------------*/
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-top: 0.2rem;
+	margin-bottom: 0.5rem}
+
+td {
+	border: 3px solid #fff;
+	padding: 8px;
+	height: 1.5rem;
+	/*width: 50%;
+    white-space: nowrap;*/}
+
+thead {
+	background-color: var(--socondColor);
+	color: #fff}
+
+thead p {
+	text-align: center}
+
+.qr-table, .basic-table, .goals-table, .exercise-table {
+	background-color: #00a4b505;
+	}
+
+.exercise-table-1, .exercise-table-2 {
+	margin-left: auto;
+  	margin-right: auto;
+	background-color: #00000005;
+	width: 45%}
+
+.exercise-table-1 {
+	background-color: #00a4b510;
+	float: right}
+
+.exercise-table-2 {
+	background-color: #00000010;
+	float: left}
+
+.head-cell {
+	background-color: var(--socondColor);
+	color: #fff}
+
+.head-cell p {
+	text-align: center}
+
+.basic-table tr:nth-child(odd){background-color: #00000010;}
+.goals-table tr:nth-child(odd){background-color: #00000010;}
+.exercise-table tr:nth-child(odd){background-color: #00000010}
+
+.exercise-table-2: after {
+  content: "";
+  clear: both}
+
+/*--------------------------------*/
+
+
+/*------------Images--------------*/
+td img, .large-image {
+	width: 100%;
+	height: auto}
+
+.small-image {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+	margin-top: 1rem;
+	margin-bottom: 1rem}
+/*--------------------------------*/
+
+
+/*---------- Footnotes -----------*/
+
+._idFootnoteLink, ._idFootnoteAnchor {
+	color: var(--socondColor);
+	text-decoration: none}
+
+._idFootnoteLink {
+    font-size: 0.5rem;
+    vertical-align: super}
+
+.HorizontalRule-1 {
+	color: var(--socondColor);
+	text-align: right;
+	width: 35%;
+	margin-bottom: 10px}
+
+/*._idFootnoteLink, .HorizontalRule-1, ._idFootnotes {
+	display: none}*/
+/*--------------------------------*/
+
+
+/*----------- For Epub -----------*/
+
+.hide {
+	display: none}
+
+/*--------------------------------*/

@@ -19,171 +19,171 @@
       </navLabel>
       <content src="Text/MuntaqaQawaed-2.xhtml#_idParaDest-1"/>
     </navPoint>
-    <navPoint id="navPoint-2" playOrder="2">
+    <navPoint id="navPoint-2" playOrder="1">
       <navLabel>
         <text>المدخل للقواعد الفقهية</text>
       </navLabel>
       <content src="Text/MuntaqaQawaed-8.xhtml#_idParaDest-2"/>
-      <navPoint id="navPoint-3" playOrder="3">
+      <navPoint id="navPoint-3" playOrder="1">
         <navLabel>
           <text>الأهداف</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-9.xhtml#_idParaDest-3"/>
       </navPoint>
-      <navPoint id="navPoint-4" playOrder="4">
+      <navPoint id="navPoint-4" playOrder="1">
         <navLabel>
           <text>نشاط استهلالي</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-10.xhtml#_idParaDest-4"/>
       </navPoint>
-      <navPoint id="navPoint-5" playOrder="5">
+      <navPoint id="navPoint-5" playOrder="1>
         <navLabel>
           <text>أولا: معنى القاعدة الفقهية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-11.xhtml#_idParaDest-5"/>
       </navPoint>
-      <navPoint id="navPoint-6" playOrder="6">
+      <navPoint id="navPoint-6" playOrder="1>
         <navLabel>
           <text>ثانيا: خصائص القواعد الفقهية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-12.xhtml#_idParaDest-6"/>
       </navPoint>
-      <navPoint id="navPoint-7" playOrder="7">
+      <navPoint id="navPoint-7" playOrder="1>
         <navLabel>
           <text>ثالثا: أهمية دراستها لطالب العلوم الشرعية والقانونية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-12.xhtml#_idParaDest-7"/>
       </navPoint>
-      <navPoint id="navPoint-8" playOrder="8">
+      <navPoint id="navPoint-8" playOrder="1>
         <navLabel>
           <text>رابعا: المصادر التي استمدت منها القواعد الفقهية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-13.xhtml#_idParaDest-8"/>
       </navPoint>
-      <navPoint id="navPoint-9" playOrder="9">
+      <navPoint id="navPoint-9" playOrder="1>
         <navLabel>
           <text>خامسا: حجية القاعدة الفقهية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-15.xhtml#_idParaDest-9"/>
       </navPoint>
-      <navPoint id="navPoint-10" playOrder="10">
+      <navPoint id="navPoint-10" playOrder="1">
         <navLabel>
           <text>سادسا: أنواع القواعد الفقهية، وتقسيماتها</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-15.xhtml#_idParaDest-10"/>
       </navPoint>
-      <navPoint id="navPoint-11" playOrder="11">
+      <navPoint id="navPoint-11" playOrder="1">
         <navLabel>
           <text>سابعا: علاقة الأنظمة المعاصرة بالقواعد الفقهية</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-17.xhtml#_idParaDest-11"/>
       </navPoint>
-      <navPoint id="navPoint-12" playOrder="12">
+      <navPoint id="navPoint-12" playOrder="1">
         <navLabel>
           <text>ثامنا: كيفية إعمال القواعد الفقهية على الوقائع والقضايا</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-19.xhtml#_idParaDest-12"/>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-13" playOrder="1">
         <navLabel>
           <text>الأنشطة</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-21.xhtml#_idParaDest-13"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-14" playOrder="14">
+    <navPoint id="navPoint-14" playOrder="1">
       <navLabel>
         <text>القسم الأول: القواعد الخمس الكبرى</text>
       </navLabel>
       <content src="Text/MuntaqaQawaed-23.xhtml#_idParaDest-14"/>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-15" playOrder="1">
         <navLabel>
           <text>القاعدة الكبرى الأولى: «الأمور بمقاصدها»</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-24.xhtml#_idParaDest-15"/>
-        <navPoint id="navPoint-16" playOrder="16">
+        <navPoint id="navPoint-16" playOrder="1">
           <navLabel>
             <text>الأهداف</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-25.xhtml#_idParaDest-16"/>
         </navPoint>
-        <navPoint id="navPoint-17" playOrder="17">
+        <navPoint id="navPoint-17" playOrder="1">
           <navLabel>
             <text>نشاط استهلالي</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-26.xhtml#_idParaDest-17"/>
         </navPoint>
-        <navPoint id="navPoint-18" playOrder="18">
+        <navPoint id="navPoint-18" playOrder="1">
           <navLabel>
             <text>أولا: التعريف بقاعدة: «الأمور بمقاصدها»</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-27.xhtml#_idParaDest-18"/>
-          <navPoint id="navPoint-19" playOrder="19">
+          <navPoint id="navPoint-19" playOrder="1">
             <navLabel>
               <text>مسائل متعلقة بالنية</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-28.xhtml#_idParaDest-19"/>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-20" playOrder="20">
+        <navPoint id="navPoint-20" playOrder="1">
           <navLabel>
             <text>ثانيا: القواعد المندرجة ضمن قاعدة: «الأمور بمقاصدها»</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-32.xhtml#_idParaDest-20"/>
-          <navPoint id="navPoint-21" playOrder="21">
+          <navPoint id="navPoint-21" playOrder="1">
             <navLabel>
               <text>القاعدة الأولى: «مقاصد اللفظ على نية اللافظ»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-33.xhtml#_idParaDest-21"/>
           </navPoint>
-          <navPoint id="navPoint-22" playOrder="22">
+          <navPoint id="navPoint-22" playOrder="1">
             <navLabel>
               <text>القاعدة الثانية: «العبرة في العقود للمقاصد والمعاني لا للألفاظ والمباني»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-36.xhtml#_idParaDest-22"/>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-23" playOrder="23">
+        <navPoint id="navPoint-23" playOrder="1">
           <navLabel>
             <text>الأنشطة</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-40.xhtml#_idParaDest-23"/>
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-24" playOrder="24">
+      <navPoint id="navPoint-24" playOrder="1">
         <navLabel>
           <text>القاعدة الكبرى الثانية: «المشقة تجلب التيسير»</text>
         </navLabel>
         <content src="Text/MuntaqaQawaed-42.xhtml#_idParaDest-24"/>
-        <navPoint id="navPoint-25" playOrder="25">
+        <navPoint id="navPoint-25" playOrder="1">
           <navLabel>
             <text>الأهداف</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-43.xhtml#_idParaDest-25"/>
         </navPoint>
-        <navPoint id="navPoint-26" playOrder="26">
+        <navPoint id="navPoint-26" playOrder="1">
           <navLabel>
             <text>نشاط استهلالي</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-44.xhtml#_idParaDest-26"/>
         </navPoint>
-        <navPoint id="navPoint-27" playOrder="27">
+        <navPoint id="navPoint-27" playOrder="1">
           <navLabel>
             <text>أولا: التعريف بقاعدة: «المشقة تجلب التيسير»</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-45.xhtml#_idParaDest-27"/>
-          <navPoint id="navPoint-28" playOrder="28">
+          <navPoint id="navPoint-28" playOrder="1">
             <navLabel>
               <text>أسباب التخفيف</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-46.xhtml#_idParaDest-28"/>
-            <navPoint id="navPoint-29" playOrder="29">
+            <navPoint id="navPoint-29" playOrder="1">
               <navLabel>
                 <text>أقسام المشقة</text>
               </navLabel>
               <content src="Text/MuntaqaQawaed-50.xhtml#_idParaDest-29"/>
             </navPoint>
-            <navPoint id="navPoint-30" playOrder="30">
+            <navPoint id="navPoint-30" playOrder="1">
               <navLabel>
                 <text>شروط المشقة التي تجلب التيسير</text>
               </navLabel>
@@ -191,50 +191,50 @@
             </navPoint>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-31" playOrder="31">
+        <navPoint id="navPoint-31" playOrder="1">
           <navLabel>
             <text>ثانيا: القواعد المندرجة ضمن قاعدة: «المشقة تجلب التيسير»</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-52.xhtml#_idParaDest-31"/>
-          <navPoint id="navPoint-32" playOrder="32">
+          <navPoint id="navPoint-32" playOrder="1">
             <navLabel>
               <text>القاعدة الأولى: «الأمر إذا ضاق اتسع، وإذا اتسع ضاق»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-53.xhtml#_idParaDest-32"/>
           </navPoint>
-          <navPoint id="navPoint-33" playOrder="33">
+          <navPoint id="navPoint-33" playOrder="1">
             <navLabel>
               <text>القاعدة الثانية: «ما ثبت لعذر يزول بزواله»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-55.xhtml#_idParaDest-33"/>
           </navPoint>
-          <navPoint id="navPoint-34" playOrder="34">
+          <navPoint id="navPoint-34" playOrder="1">
             <navLabel>
               <text>القاعدة الثالثة: «الضرورات تبيح المحظورات»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-57.xhtml#_idParaDest-34"/>
           </navPoint>
-          <navPoint id="navPoint-35" playOrder="35">
+          <navPoint id="navPoint-35" playOrder="1">
             <navLabel>
               <text>القاعدة الرابعة: «الاضطرار لا يبطل حق الغير، إلا إذا كان إتلافه لدفع أذاه»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-60.xhtml#_idParaDest-35"/>
           </navPoint>
-          <navPoint id="navPoint-36" playOrder="36">
+          <navPoint id="navPoint-36" playOrder="1">
             <navLabel>
               <text>القاعدة الخامسة: «الجهل بالحكم ليس عذرا»</text>
             </navLabel>
             <content src="Text/MuntaqaQawaed-62.xhtml#_idParaDest-36"/>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-37" playOrder="37">
+        <navPoint id="navPoint-37" playOrder="1">
           <navLabel>
             <text>الأنشطة</text>
           </navLabel>
           <content src="Text/MuntaqaQawaed-65.xhtml#_idParaDest-37"/>
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-38" playOrder="38">
+      <navPoint id="navPoint-38" playOrder="1">
         <navLabel>
           <text>القاعدة الكبرى الثالثة: «لا ضرر ولا ضرار»</text>
         </navLabel>

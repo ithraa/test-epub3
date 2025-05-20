@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" 
-         unique-identifier="bookid" 
-         xmlns="http://www.idpf.org/2007/opf"
-         xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:dcterms="http://purl.org/dc/terms/"
-         xmlns:opf="http://www.idpf.org/2007/opf"
-         prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
-  <metadata>
-    <meta property="dcterms:modified">2025-04-20T00:00:00Z</meta>
-    <meta property="ibooks:specified-fonts">true</meta>
+<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <meta content="Adobe InDesign 16.0.1" name="generator"/>
     <meta name="cover" content="rawd-cover.png"/>
     <dc:title>الروض المربع بشرح زاد المستقنع</dc:title>
@@ -16,14 +8,16 @@
     <dc:subject>الفقه الإسلامي</dc:subject>
     <dc:description/>
     <dc:publisher>شركة إثراء المتون</dc:publisher>
-    <dc:date>2025-04-20</dc:date>
+    <dc:date>13/09/2021</dc:date>
     <dc:source/>
     <dc:relation/>
     <dc:coverage/>
     <dc:rights/>
-    <dc:language>ar</dc:language>
+    <dc:language>ar-SA</dc:language>
+    <dc:language>en-US</dc:language>
     <dc:identifier id="bookid">urn:uuid:9a6c942b-bcca-4fab-9af5-770929939db0</dc:identifier>
     <meta content="1.7.0" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-09-15</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
@@ -322,7 +316,6 @@
     <item id="x4-77" href="Text/4-77.xhtml" media-type="application/xhtml+xml"/>
     <item id="x4-78" href="Text/4-78.xhtml" media-type="application/xhtml+xml"/>
     <item id="x4-79" href="Text/4-79.xhtml" media-type="application/xhtml+xml"/>
-    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="stylesheet.css" href="../Styles/stylesheet.css" media-type="text/css"/>
     <item id="Image553513.png" href="Images/image553513.png" media-type="image/png"/>
@@ -344,307 +337,305 @@
     <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
     <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
   </manifest>
-  <spine toc="ncx" page-progression-direction="rtl">
-    <itemref idref="cover" linear="no"/>
-    <itemref idref="x0" linear="no"/>
-    <itemref idref="x0-1" linear="no"/>
-    <itemref idref="x0-2" linear="no"/>
-    <itemref idref="x0-3" linear="no"/>
-    <itemref idref="x0-4" linear="no"/>
-    <itemref idref="x0-5" linear="no"/>
-    <itemref idref="x0-6" linear="no"/>
-    <itemref idref="x1"/>
-    <itemref idref="x1-1"/>
-    <itemref idref="x1-2"/>
-    <itemref idref="x1-3"/>
-    <itemref idref="x1-4"/>
-    <itemref idref="x1-5"/>
-    <itemref idref="x1-6"/>
-    <itemref idref="x1-7"/>
-    <itemref idref="x1-8"/>
-    <itemref idref="x1-9"/>
-    <itemref idref="x1-10"/>
-    <itemref idref="x1-11"/>
-    <itemref idref="x1-12"/>
-    <itemref idref="x1-13"/>
-    <itemref idref="x1-14"/>
-    <itemref idref="x1-15"/>
-    <itemref idref="x1-16"/>
-    <itemref idref="x1-17"/>
-    <itemref idref="x1-18"/>
-    <itemref idref="x1-19"/>
-    <itemref idref="x1-20"/>
-    <itemref idref="x1-21"/>
-    <itemref idref="x1-22"/>
-    <itemref idref="x1-23"/>
-    <itemref idref="x1-24"/>
-    <itemref idref="x1-25"/>
-    <itemref idref="x1-26"/>
-    <itemref idref="x1-27"/>
-    <itemref idref="x1-28"/>
-    <itemref idref="x1-29"/>
-    <itemref idref="x1-30"/>
-    <itemref idref="x1-31"/>
-    <itemref idref="x1-32"/>
-    <itemref idref="x1-33"/>
-    <itemref idref="x1-34"/>
-    <itemref idref="x1-35"/>
-    <itemref idref="x1-36"/>
-    <itemref idref="x1-37"/>
-    <itemref idref="x1-38"/>
-    <itemref idref="x1-39"/>
-    <itemref idref="x1-40"/>
-    <itemref idref="x2"/>
-    <itemref idref="x2-1"/>
-    <itemref idref="x2-2"/>
-    <itemref idref="x2-3"/>
-    <itemref idref="x2-4"/>
-    <itemref idref="x2-5"/>
-    <itemref idref="x2-6"/>
-    <itemref idref="x2-7"/>
-    <itemref idref="x2-8"/>
-    <itemref idref="x2-9"/>
-    <itemref idref="x2-10"/>
-    <itemref idref="x2-11"/>
-    <itemref idref="x2-12"/>
-    <itemref idref="x2-13"/>
-    <itemref idref="x2-14"/>
-    <itemref idref="x2-15"/>
-    <itemref idref="x2-16"/>
-    <itemref idref="x2-17"/>
-    <itemref idref="x2-18"/>
-    <itemref idref="x2-19"/>
-    <itemref idref="x2-20"/>
-    <itemref idref="x2-21"/>
-    <itemref idref="x2-22"/>
-    <itemref idref="x2-23"/>
-    <itemref idref="x2-24"/>
-    <itemref idref="x2-25"/>
-    <itemref idref="x2-26"/>
-    <itemref idref="x2-27"/>
-    <itemref idref="x2-28"/>
-    <itemref idref="x2-29"/>
-    <itemref idref="x2-30"/>
-    <itemref idref="x2-31"/>
-    <itemref idref="x2-32"/>
-    <itemref idref="x2-33"/>
-    <itemref idref="x2-34"/>
-    <itemref idref="x2-35"/>
-    <itemref idref="x2-36"/>
-    <itemref idref="x2-37"/>
-    <itemref idref="x2-38"/>
-    <itemref idref="x2-39"/>
-    <itemref idref="x2-40"/>
-    <itemref idref="x2-41"/>
-    <itemref idref="x2-42"/>
-    <itemref idref="x2-43"/>
-    <itemref idref="x2-44"/>
-    <itemref idref="x2-45"/>
-    <itemref idref="x2-46"/>
-    <itemref idref="x2-47"/>
-    <itemref idref="x2-48"/>
-    <itemref idref="x2-49"/>
-    <itemref idref="x2-50"/>
-    <itemref idref="x2-51"/>
-    <itemref idref="x2-52"/>
-    <itemref idref="x2-53"/>
-    <itemref idref="x2-54"/>
-    <itemref idref="x2-55"/>
-    <itemref idref="x2-56"/>
-    <itemref idref="x2-57"/>
-    <itemref idref="x2-58"/>
-    <itemref idref="x2-59"/>
-    <itemref idref="x3"/>
-    <itemref idref="x3-1"/>
-    <itemref idref="x3-2"/>
-    <itemref idref="x3-3"/>
-    <itemref idref="x3-4"/>
-    <itemref idref="x3-5"/>
-    <itemref idref="x3-6"/>
-    <itemref idref="x3-7"/>
-    <itemref idref="x3-8"/>
-    <itemref idref="x3-9"/>
-    <itemref idref="x3-10"/>
-    <itemref idref="x3-11"/>
-    <itemref idref="x3-12"/>
-    <itemref idref="x3-13"/>
-    <itemref idref="x3-14"/>
-    <itemref idref="x3-15"/>
-    <itemref idref="x3-16"/>
-    <itemref idref="x3-17"/>
-    <itemref idref="x3-18"/>
-    <itemref idref="x3-19"/>
-    <itemref idref="x3-20"/>
-    <itemref idref="x3-21"/>
-    <itemref idref="x3-22"/>
-    <itemref idref="x3-23"/>
-    <itemref idref="x3-24"/>
-    <itemref idref="x3-25"/>
-    <itemref idref="x3-26"/>
-    <itemref idref="x3-27"/>
-    <itemref idref="x3-28"/>
-    <itemref idref="x3-29"/>
-    <itemref idref="x3-30"/>
-    <itemref idref="x3-31"/>
-    <itemref idref="x3-32"/>
-    <itemref idref="x3-33"/>
-    <itemref idref="x3-34"/>
-    <itemref idref="x3-35"/>
-    <itemref idref="x3-36"/>
-    <itemref idref="x3-37"/>
-    <itemref idref="x3-38"/>
-    <itemref idref="x3-39"/>
-    <itemref idref="x3-40"/>
-    <itemref idref="x3-41"/>
-    <itemref idref="x3-42"/>
-    <itemref idref="x3-43"/>
-    <itemref idref="x3-44"/>
-    <itemref idref="x3-45"/>
-    <itemref idref="x3-46"/>
-    <itemref idref="x3-47"/>
-    <itemref idref="x3-48"/>
-    <itemref idref="x3-49"/>
-    <itemref idref="x3-50"/>
-    <itemref idref="x3-51"/>
-    <itemref idref="x3-52"/>
-    <itemref idref="x3-53"/>
-    <itemref idref="x3-54"/>
-    <itemref idref="x3-55"/>
-    <itemref idref="x3-56"/>
-    <itemref idref="x3-57"/>
-    <itemref idref="x3-58"/>
-    <itemref idref="x3-59"/>
-    <itemref idref="x3-60"/>
-    <itemref idref="x3-61"/>
-    <itemref idref="x3-62"/>
-    <itemref idref="x3-63"/>
-    <itemref idref="x3-64"/>
-    <itemref idref="x3-65"/>
-    <itemref idref="x3-66"/>
-    <itemref idref="x3-67"/>
-    <itemref idref="x3-68"/>
-    <itemref idref="x3-69"/>
-    <itemref idref="x3-70"/>
-    <itemref idref="x3-71"/>
-    <itemref idref="x3-72"/>
-    <itemref idref="x3-73"/>
-    <itemref idref="x3-74"/>
-    <itemref idref="x3-75"/>
-    <itemref idref="x3-76"/>
-    <itemref idref="x3-77"/>
-    <itemref idref="x3-78"/>
-    <itemref idref="x3-79"/>
-    <itemref idref="x3-80"/>
-    <itemref idref="x3-81"/>
-    <itemref idref="x3-82"/>
-    <itemref idref="x3-83"/>
-    <itemref idref="x3-84"/>
-    <itemref idref="x3-85"/>
-    <itemref idref="x3-86"/>
-    <itemref idref="x3-87"/>
-    <itemref idref="x3-88"/>
-    <itemref idref="x3-89"/>
-    <itemref idref="x3-90"/>
-    <itemref idref="x3-91"/>
-    <itemref idref="x3-92"/>
-    <itemref idref="x3-93"/>
-    <itemref idref="x3-94"/>
-    <itemref idref="x3-95"/>
-    <itemref idref="x3-96"/>
-    <itemref idref="x3-97"/>
-    <itemref idref="x3-98"/>
-    <itemref idref="x3-99"/>
-    <itemref idref="x3-100"/>
-    <itemref idref="x3-101"/>
-    <itemref idref="x3-102"/>
-    <itemref idref="x3-103"/>
-    <itemref idref="x3-104"/>
-    <itemref idref="x3-105"/>
-    <itemref idref="x3-106"/>
-    <itemref idref="x4"/>
-    <itemref idref="x4-1"/>
-    <itemref idref="x4-2"/>
-    <itemref idref="x4-3"/>
-    <itemref idref="x4-4"/>
-    <itemref idref="x4-5"/>
-    <itemref idref="x4-6"/>
-    <itemref idref="x4-7"/>
-    <itemref idref="x4-8"/>
-    <itemref idref="x4-9"/>
-    <itemref idref="x4-10"/>
-    <itemref idref="x4-11"/>
-    <itemref idref="x4-12"/>
-    <itemref idref="x4-13"/>
-    <itemref idref="x4-14"/>
-    <itemref idref="x4-15"/>
-    <itemref idref="x4-16"/>
-    <itemref idref="x4-17"/>
-    <itemref idref="x4-18"/>
-    <itemref idref="x4-19"/>
-    <itemref idref="x4-20"/>
-    <itemref idref="x4-21"/>
-    <itemref idref="x4-22"/>
-    <itemref idref="x4-23"/>
-    <itemref idref="x4-24"/>
-    <itemref idref="x4-25"/>
-    <itemref idref="x4-26"/>
-    <itemref idref="x4-27"/>
-    <itemref idref="x4-28"/>
-    <itemref idref="x4-29"/>
-    <itemref idref="x4-30"/>
-    <itemref idref="x4-31"/>
-    <itemref idref="x4-32"/>
-    <itemref idref="x4-33"/>
-    <itemref idref="x4-34"/>
-    <itemref idref="x4-35"/>
-    <itemref idref="x4-36"/>
-    <itemref idref="x4-37"/>
-    <itemref idref="x4-38"/>
-    <itemref idref="x4-39"/>
-    <itemref idref="x4-40"/>
-    <itemref idref="x4-41"/>
-    <itemref idref="x4-42"/>
-    <itemref idref="x4-43"/>
-    <itemref idref="x4-44"/>
-    <itemref idref="x4-45"/>
-    <itemref idref="x4-46"/>
-    <itemref idref="x4-47"/>
-    <itemref idref="x4-48"/>
-    <itemref idref="x4-49"/>
-    <itemref idref="x4-50"/>
-    <itemref idref="x4-51"/>
-    <itemref idref="x4-52"/>
-    <itemref idref="x4-53"/>
-    <itemref idref="x4-54"/>
-    <itemref idref="x4-55"/>
-    <itemref idref="x4-56"/>
-    <itemref idref="x4-57"/>
-    <itemref idref="x4-58"/>
-    <itemref idref="x4-59"/>
-    <itemref idref="x4-60"/>
-    <itemref idref="x4-61"/>
-    <itemref idref="x4-62"/>
-    <itemref idref="x4-63"/>
-    <itemref idref="x4-64"/>
-    <itemref idref="x4-65"/>
-    <itemref idref="x4-66"/>
-    <itemref idref="x4-67"/>
-    <itemref idref="x4-68"/>
-    <itemref idref="x4-69"/>
-    <itemref idref="x4-70"/>
-    <itemref idref="x4-71"/>
-    <itemref idref="x4-72"/>
-    <itemref idref="x4-73"/>
-    <itemref idref="x4-74"/>
-    <itemref idref="x4-75"/>
-    <itemref idref="x4-76"/>
-    <itemref idref="x4-77"/>
-    <itemref idref="x4-78"/>
-    <itemref idref="x4-79"/>
-    <itemref idref="nav" linear="yes"/>
+  <spine toc="ncx"  page-progression-direction="rtl">
+    <itemref linear="no" idref="cover" />
+    <itemref linear="no" idref="x0" />
+    <itemref linear="no" idref="x0-1" />
+    <itemref linear="no" idref="x0-2" />
+    <itemref linear="no" idref="x0-3" />
+    <itemref linear="no" idref="x0-4" />
+    <itemref linear="yes" idref="x0-5" />
+    <itemref linear="yes" idref="x0-6" />
+    <itemref linear="yes" idref="x1"/>
+    <itemref linear="yes" idref="x1-1"/>
+    <itemref linear="yes" idref="x1-2"/>
+    <itemref linear="yes" idref="x1-3"/>
+    <itemref linear="yes" idref="x1-4"/>
+    <itemref linear="yes" idref="x1-5"/>
+    <itemref linear="yes" idref="x1-6"/>
+    <itemref linear="yes" idref="x1-7"/>
+    <itemref linear="yes" idref="x1-8"/>
+    <itemref linear="yes" idref="x1-9"/>
+    <itemref linear="yes" idref="x1-10"/>
+    <itemref linear="yes" idref="x1-11"/>
+    <itemref linear="yes" idref="x1-12"/>
+    <itemref linear="yes" idref="x1-13"/>
+    <itemref linear="yes" idref="x1-14"/>
+    <itemref linear="yes" idref="x1-15"/>
+    <itemref linear="yes" idref="x1-16"/>
+    <itemref linear="yes" idref="x1-17"/>
+    <itemref linear="yes" idref="x1-18"/>
+    <itemref linear="yes" idref="x1-19"/>
+    <itemref linear="yes" idref="x1-20"/>
+    <itemref linear="yes" idref="x1-21"/>
+    <itemref linear="yes" idref="x1-22"/>
+    <itemref linear="yes" idref="x1-23"/>
+    <itemref linear="yes" idref="x1-24"/>
+    <itemref linear="yes" idref="x1-25"/>
+    <itemref linear="yes" idref="x1-26"/>
+    <itemref linear="yes" idref="x1-27"/>
+    <itemref linear="yes" idref="x1-28"/>
+    <itemref linear="yes" idref="x1-29"/>
+    <itemref linear="yes" idref="x1-30"/>
+    <itemref linear="yes" idref="x1-31"/>
+    <itemref linear="yes" idref="x1-32"/>
+    <itemref linear="yes" idref="x1-33"/>
+    <itemref linear="yes" idref="x1-34"/>
+    <itemref linear="yes" idref="x1-35"/>
+    <itemref linear="yes" idref="x1-36"/>
+    <itemref linear="yes" idref="x1-37"/>
+    <itemref linear="yes" idref="x1-38"/>
+    <itemref linear="yes" idref="x1-39"/>
+    <itemref linear="yes" idref="x1-40"/>
+    <itemref linear="yes" idref="x2"/>
+    <itemref linear="yes" idref="x2-1"/>
+    <itemref linear="yes" idref="x2-2"/>
+    <itemref linear="yes" idref="x2-3"/>
+    <itemref linear="yes" idref="x2-4"/>
+    <itemref linear="yes" idref="x2-5"/>
+    <itemref linear="yes" idref="x2-6"/>
+    <itemref linear="yes" idref="x2-7"/>
+    <itemref linear="yes" idref="x2-8"/>
+    <itemref linear="yes" idref="x2-9"/>
+    <itemref linear="yes" idref="x2-10"/>
+    <itemref linear="yes" idref="x2-11"/>
+    <itemref linear="yes" idref="x2-12"/>
+    <itemref linear="yes" idref="x2-13"/>
+    <itemref linear="yes" idref="x2-14"/>
+    <itemref linear="yes" idref="x2-15"/>
+    <itemref linear="yes" idref="x2-16"/>
+    <itemref linear="yes" idref="x2-17"/>
+    <itemref linear="yes" idref="x2-18"/>
+    <itemref linear="yes" idref="x2-19"/>
+    <itemref linear="yes" idref="x2-20"/>
+    <itemref linear="yes" idref="x2-21"/>
+    <itemref linear="yes" idref="x2-22"/>
+    <itemref linear="yes" idref="x2-23"/>
+    <itemref linear="yes" idref="x2-24"/>
+    <itemref linear="yes" idref="x2-25"/>
+    <itemref linear="yes" idref="x2-26"/>
+    <itemref linear="yes" idref="x2-27"/>
+    <itemref linear="yes" idref="x2-28"/>
+    <itemref linear="yes" idref="x2-29"/>
+    <itemref linear="yes" idref="x2-30"/>
+    <itemref linear="yes" idref="x2-31"/>
+    <itemref linear="yes" idref="x2-32"/>
+    <itemref linear="yes" idref="x2-33"/>
+    <itemref linear="yes" idref="x2-34"/>
+    <itemref linear="yes" idref="x2-35"/>
+    <itemref linear="yes" idref="x2-36"/>
+    <itemref linear="yes" idref="x2-37"/>
+    <itemref linear="yes" idref="x2-38"/>
+    <itemref linear="yes" idref="x2-39"/>
+    <itemref linear="yes" idref="x2-40"/>
+    <itemref linear="yes" idref="x2-41"/>
+    <itemref linear="yes" idref="x2-42"/>
+    <itemref linear="yes" idref="x2-43"/>
+    <itemref linear="yes" idref="x2-44"/>
+    <itemref linear="yes" idref="x2-45"/>
+    <itemref linear="yes" idref="x2-46"/>
+    <itemref linear="yes" idref="x2-47"/>
+    <itemref linear="yes" idref="x2-48"/>
+    <itemref linear="yes" idref="x2-49"/>
+    <itemref linear="yes" idref="x2-50"/>
+    <itemref linear="yes" idref="x2-51"/>
+    <itemref linear="yes" idref="x2-52"/>
+    <itemref linear="yes" idref="x2-53"/>
+    <itemref linear="yes" idref="x2-54"/>
+    <itemref linear="yes" idref="x2-55"/>
+    <itemref linear="yes" idref="x2-56"/>
+    <itemref linear="yes" idref="x2-57"/>
+    <itemref linear="yes" idref="x2-58"/>
+    <itemref linear="yes" idref="x2-59"/>
+    <itemref linear="yes" idref="x3"/>
+    <itemref linear="yes" idref="x3-1"/>
+    <itemref linear="yes" idref="x3-2"/>
+    <itemref linear="yes" idref="x3-3"/>
+    <itemref linear="yes" idref="x3-4"/>
+    <itemref linear="yes" idref="x3-5"/>
+    <itemref linear="yes" idref="x3-6"/>
+    <itemref linear="yes" idref="x3-7"/>
+    <itemref linear="yes" idref="x3-8"/>
+    <itemref linear="yes" idref="x3-9"/>
+    <itemref linear="yes" idref="x3-10"/>
+    <itemref linear="yes" idref="x3-11"/>
+    <itemref linear="yes" idref="x3-12"/>
+    <itemref linear="yes" idref="x3-13"/>
+    <itemref linear="yes" idref="x3-14"/>
+    <itemref linear="yes" idref="x3-15"/>
+    <itemref linear="yes" idref="x3-16"/>
+    <itemref linear="yes" idref="x3-17"/>
+    <itemref linear="yes" idref="x3-18"/>
+    <itemref linear="yes" idref="x3-19"/>
+    <itemref linear="yes" idref="x3-20"/>
+    <itemref linear="yes" idref="x3-21"/>
+    <itemref linear="yes" idref="x3-22"/>
+    <itemref linear="yes" idref="x3-23"/>
+    <itemref linear="yes" idref="x3-24"/>
+    <itemref linear="yes" idref="x3-25"/>
+    <itemref linear="yes" idref="x3-26"/>
+    <itemref linear="yes" idref="x3-27"/>
+    <itemref linear="yes" idref="x3-28"/>
+    <itemref linear="yes" idref="x3-29"/>
+    <itemref linear="yes" idref="x3-30"/>
+    <itemref linear="yes" idref="x3-31"/>
+    <itemref linear="yes" idref="x3-32"/>
+    <itemref linear="yes" idref="x3-33"/>
+    <itemref linear="yes" idref="x3-34"/>
+    <itemref linear="yes" idref="x3-35"/>
+    <itemref linear="yes" idref="x3-36"/>
+    <itemref linear="yes" idref="x3-37"/>
+    <itemref linear="yes" idref="x3-38"/>
+    <itemref linear="yes" idref="x3-39"/>
+    <itemref linear="yes" idref="x3-40"/>
+    <itemref linear="yes" idref="x3-41"/>
+    <itemref linear="yes" idref="x3-42"/>
+    <itemref linear="yes" idref="x3-43"/>
+    <itemref linear="yes" idref="x3-44"/>
+    <itemref linear="yes" idref="x3-45"/>
+    <itemref linear="yes" idref="x3-46"/>
+    <itemref linear="yes" idref="x3-47"/>
+    <itemref linear="yes" idref="x3-48"/>
+    <itemref linear="yes" idref="x3-49"/>
+    <itemref linear="yes" idref="x3-50"/>
+    <itemref linear="yes" idref="x3-51"/>
+    <itemref linear="yes" idref="x3-52"/>
+    <itemref linear="yes" idref="x3-53"/>
+    <itemref linear="yes" idref="x3-54"/>
+    <itemref linear="yes" idref="x3-55"/>
+    <itemref linear="yes" idref="x3-56"/>
+    <itemref linear="yes" idref="x3-57"/>
+    <itemref linear="yes" idref="x3-58"/>
+    <itemref linear="yes" idref="x3-59"/>
+    <itemref linear="yes" idref="x3-60"/>
+    <itemref linear="yes" idref="x3-61"/>
+    <itemref linear="yes" idref="x3-62"/>
+    <itemref linear="yes" idref="x3-63"/>
+    <itemref linear="yes" idref="x3-64"/>
+    <itemref linear="yes" idref="x3-65"/>
+    <itemref linear="yes" idref="x3-66"/>
+    <itemref linear="yes" idref="x3-67"/>
+    <itemref linear="yes" idref="x3-68"/>
+    <itemref linear="yes" idref="x3-69"/>
+    <itemref linear="yes" idref="x3-70"/>
+    <itemref linear="yes" idref="x3-71"/>
+    <itemref linear="yes" idref="x3-72"/>
+    <itemref linear="yes" idref="x3-73"/>
+    <itemref linear="yes" idref="x3-74"/>
+    <itemref linear="yes" idref="x3-75"/>
+    <itemref linear="yes" idref="x3-76"/>
+    <itemref linear="yes" idref="x3-77"/>
+    <itemref linear="yes" idref="x3-78"/>
+    <itemref linear="yes" idref="x3-79"/>
+    <itemref linear="yes" idref="x3-80"/>
+    <itemref linear="yes" idref="x3-81"/>
+    <itemref linear="yes" idref="x3-82"/>
+    <itemref linear="yes" idref="x3-83"/>
+    <itemref linear="yes" idref="x3-84"/>
+    <itemref linear="yes" idref="x3-85"/>
+    <itemref linear="yes" idref="x3-86"/>
+    <itemref linear="yes" idref="x3-87"/>
+    <itemref linear="yes" idref="x3-88"/>
+    <itemref linear="yes" idref="x3-89"/>
+    <itemref linear="yes" idref="x3-90"/>
+    <itemref linear="yes" idref="x3-91"/>
+    <itemref linear="yes" idref="x3-92"/>
+    <itemref linear="yes" idref="x3-93"/>
+    <itemref linear="yes" idref="x3-94"/>
+    <itemref linear="yes" idref="x3-95"/>
+    <itemref linear="yes" idref="x3-96"/>
+    <itemref linear="yes" idref="x3-97"/>
+    <itemref linear="yes" idref="x3-98"/>
+    <itemref linear="yes" idref="x3-99"/>
+    <itemref linear="yes" idref="x3-100"/>
+    <itemref linear="yes" idref="x3-101"/>
+    <itemref linear="yes" idref="x3-102"/>
+    <itemref linear="yes" idref="x3-103"/>
+    <itemref linear="yes" idref="x3-104"/>
+    <itemref linear="yes" idref="x3-105"/>
+    <itemref linear="yes" idref="x3-106"/>
+    <itemref linear="yes" idref="x4"/>
+    <itemref linear="yes" idref="x4-1"/>
+    <itemref linear="yes" idref="x4-2"/>
+    <itemref linear="yes" idref="x4-3"/>
+    <itemref linear="yes" idref="x4-4"/>
+    <itemref linear="yes" idref="x4-5"/>
+    <itemref linear="yes" idref="x4-6"/>
+    <itemref linear="yes" idref="x4-7"/>
+    <itemref linear="yes" idref="x4-8"/>
+    <itemref linear="yes" idref="x4-9"/>
+    <itemref linear="yes" idref="x4-10"/>
+    <itemref linear="yes" idref="x4-11"/>
+    <itemref linear="yes" idref="x4-12"/>
+    <itemref linear="yes" idref="x4-13"/>
+    <itemref linear="yes" idref="x4-14"/>
+    <itemref linear="yes" idref="x4-15"/>
+    <itemref linear="yes" idref="x4-16"/>
+    <itemref linear="yes" idref="x4-17"/>
+    <itemref linear="yes" idref="x4-18"/>
+    <itemref linear="yes" idref="x4-19"/>
+    <itemref linear="yes" idref="x4-20"/>
+    <itemref linear="yes" idref="x4-21"/>
+    <itemref linear="yes" idref="x4-22"/>
+    <itemref linear="yes" idref="x4-23"/>
+    <itemref linear="yes" idref="x4-24"/>
+    <itemref linear="yes" idref="x4-25"/>
+    <itemref linear="yes" idref="x4-26"/>
+    <itemref linear="yes" idref="x4-27"/>
+    <itemref linear="yes" idref="x4-28"/>
+    <itemref linear="yes" idref="x4-29"/>
+    <itemref linear="yes" idref="x4-30"/>
+    <itemref linear="yes" idref="x4-31"/>
+    <itemref linear="yes" idref="x4-32"/>
+    <itemref linear="yes" idref="x4-33"/>
+    <itemref linear="yes" idref="x4-34"/>
+    <itemref linear="yes" idref="x4-35"/>
+    <itemref linear="yes" idref="x4-36"/>
+    <itemref linear="yes" idref="x4-37"/>
+    <itemref linear="yes" idref="x4-38"/>
+    <itemref linear="yes" idref="x4-39"/>
+    <itemref linear="yes" idref="x4-40"/>
+    <itemref linear="yes" idref="x4-41"/>
+    <itemref linear="yes" idref="x4-42"/>
+    <itemref linear="yes" idref="x4-43"/>
+    <itemref linear="yes" idref="x4-44"/>
+    <itemref linear="yes" idref="x4-45"/>
+    <itemref linear="yes" idref="x4-46"/>
+    <itemref linear="yes" idref="x4-47"/>
+    <itemref linear="yes" idref="x4-48"/>
+    <itemref linear="yes" idref="x4-49"/>
+    <itemref linear="yes" idref="x4-50"/>
+    <itemref linear="yes" idref="x4-51"/>
+    <itemref linear="yes" idref="x4-52"/>
+    <itemref linear="yes" idref="x4-53"/>
+    <itemref linear="yes" idref="x4-54"/>
+    <itemref linear="yes" idref="x4-55"/>
+    <itemref linear="yes" idref="x4-56"/>
+    <itemref linear="yes" idref="x4-57"/>
+    <itemref linear="yes" idref="x4-58"/>
+    <itemref linear="yes" idref="x4-59"/>
+    <itemref linear="yes" idref="x4-60"/>
+    <itemref linear="yes" idref="x4-61"/>
+    <itemref linear="yes" idref="x4-62"/>
+    <itemref linear="yes" idref="x4-63"/>
+    <itemref linear="yes" idref="x4-64"/>
+    <itemref linear="yes" idref="x4-65"/>
+    <itemref linear="yes" idref="x4-66"/>
+    <itemref linear="yes" idref="x4-67"/>
+    <itemref linear="yes" idref="x4-68"/>
+    <itemref linear="yes" idref="x4-69"/>
+    <itemref linear="yes" idref="x4-70"/>
+    <itemref linear="yes" idref="x4-71"/>
+    <itemref linear="yes" idref="x4-72"/>
+    <itemref linear="yes" idref="x4-73"/>
+    <itemref linear="yes" idref="x4-74"/>
+    <itemref linear="yes" idref="x4-75"/>
+    <itemref linear="yes" idref="x4-76"/>
+    <itemref linear="yes" idref="x4-77"/>
+    <itemref linear="yes" idref="x4-78"/>
+    <itemref linear="yes" idref="x4-79"/>
   </spine>
   <guide>
-    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
-    <reference type="toc" title="Table of Contents" href="Text/nav.xhtml"/>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
   </guide>
 </package>
