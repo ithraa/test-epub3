@@ -26,7 +26,7 @@ export class AppComponent {
 
         // this.book = ePub('/assets/2011.epub');
         // this.book = ePub('/assets/moby-dick/OPS/package.opf');
-        this.book = ePub('/assets/26/extracted_content/OEBPS/content.opf');
+        this.book = ePub('/assets/57/extracted_content/OEBPS/content.opf');
         // this.book = ePub('/assets/70/extracted_content/OEBPS/content.opf');
         // this.book = Epub('/assets/43/OEBPS/content.opf');
 
@@ -38,8 +38,8 @@ export class AppComponent {
         // });
 
         this.rendition = this.book.renderTo('viewer', {
-          // flow: 'paginated', // Changed from scrolled-doc for better Safari support
-          flow: 'scrolled-doc',
+          flow: 'paginated', // Changed from scrolled-doc for better Safari support
+          // flow: 'scrolled-doc',
           width: '100%',
           height: '100%',
           allowScriptedContent: true,
@@ -49,6 +49,20 @@ export class AppComponent {
         this.rendition.display().catch((error: Error) => {
           console.error('Error displaying book:', error);
         });
+
+        // // Patch: Prevent pageList errors from breaking navigation
+        // this.book.ready.then(() => {
+        //   if (!this.book.pageList) {
+        //     // Patch epub.js navigation if pageList is missing
+        //     this.book.pageList = {
+        //       pageFromCfi: () => undefined,
+        //       cfiFromPage: () => undefined,
+        //       pages: [],
+        //       locations: [],
+        //       length: 0
+        //     };
+        //   }
+        // });
 
         // Add error handling for book loading
         this.book.ready.catch((error: Error) => {
