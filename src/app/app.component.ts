@@ -26,7 +26,11 @@ export class AppComponent {
 
         // this.book = ePub('/assets/2011.epub');
         // this.book = ePub('/assets/moby-dick/OPS/package.opf');
-        this.book = ePub('/assets/57/extracted_content/OEBPS/content.opf');
+
+        // this.book = ePub('/assets/accessible_epub_3.epub');
+        this.book = ePub('/assets/accessible_epub_3/EPUB/package.opf');
+
+        // this.book = ePub('/assets/26/extracted_content/OEBPS/content.opf');
         // this.book = ePub('/assets/70/extracted_content/OEBPS/content.opf');
         // this.book = Epub('/assets/43/OEBPS/content.opf');
 
