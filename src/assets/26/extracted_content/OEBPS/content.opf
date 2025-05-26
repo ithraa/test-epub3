@@ -8,7 +8,7 @@
   </metadata>
   <manifest>
     <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+
     <item id="stylesheet" href="css/stylesheet.css" media-type="text/css" />
     <!-- Add all xhtml content files here -->
     <item id="1" href="Text/1.xhtml" media-type="application/xhtml+xml" />
@@ -115,7 +115,8 @@
     <item id="3-74" href="Text/3-74.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine page-progression-direction="rtl">
-    <itemref idref="1" linear="no" />
+    <!-- <itemref idref="1" linear="no" /> -->
+    <itemref idref="toc"  />
     <itemref idref="1-1" />
     <itemref idref="1-2" />
     <itemref idref="1-3" />

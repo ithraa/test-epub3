@@ -1,0 +1,578 @@
+/*
+@font-face {
+  font-family: "AGA Arabesque";
+  font-style: normal;
+  font-weight: normal;
+  /* src : url("../Fonts/AGA-Arabesque.TTF"); */
+  src: url("../Fonts/WMG-AGA-Arabesque.otf");
+}
+@font-face {
+  font-family: "Harf-Fannan";
+  font-style: normal;
+  font-weight: 300;
+  /* src : url("../Fonts/Harf-Fannan.ttf"); */
+  src: url("../Fonts/WMG-Harf-Fannan.otf");
+}
+@font-face {
+  font-family: "KFGQPC Arabic Symbols 01";
+  font-style: normal;
+  font-weight: normal;
+  /* src : url("../Fonts/KFGQPCArabicSymbols01.otf"); */
+  src: url("../Fonts/WMG-KFGQPCArabicSymbols01.otf");
+}
+@font-face {
+  font-family: "KFGQPC Uthmanic Script HAFS";
+  font-style: normal;
+  font-weight: normal;
+  /* src : url("../Fonts/KFGQPCUthmanicScriptHAFS.otf"); */
+  src: url("../Fonts/UthmanicHafs1 Ver09.otf");
+}
+@font-face {
+  font-family: "Qadi Linotype";
+  font-style: normal;
+  font-weight: normal;
+  /* src : url("../Fonts/QadiLinotype.otf"); */
+  src: url("../Fonts/WMG-QadiLinotype.otf");
+}
+@font-face {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: bold;
+  /* src : url("../Fonts/TimesNewRomanPS-BoldMT.ttf"); */
+  src: url("../Fonts/WMG-Lotus-Bold.otf");
+}
+@font-face {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: normal;
+  /* src : url("../Fonts/TimesNewRomanPSMT.ttf"); */
+  src: url("../Fonts/WMG-Lotus-Light.otf");
+}
+@font-face {
+  font-family: "louts shamy";
+  font-style: normal;
+  font-weight: 300;
+  /* src : url("../Fonts/louts-shamy.ttf"); */
+  src: url("../Fonts/WMG-Lotus-Light.otf");
+}
+@font-face {
+  font-family: "louts shamy";
+  font-style: normal;
+  font-weight: bold;
+  /* src : url("../Fonts/louts-shamy-Bold.ttf"); */
+  src: url("../Fonts/WMG-Lotus-Bold.otf");
+}
+
+html {
+  font-size: 35px;
+}
+
+* {
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-weight: normal;
+}
+
+body {
+  margin: 10px 20px;
+}
+
+.unit {
+  text-align: center;
+  font-size: 1rem;
+  font-family: "Qadi Linotype";
+  color: #25408f;
+}
+.chapter {
+  text-align: center;
+  font-size: 0.75rem;
+  font-family: "Qadi Linotype";
+  color: #25408f;
+}
+.introduction {
+  text-align: center;
+}
+.s_title {
+  color: #25408f;
+}
+h1 {
+  text-align: center;
+  font-size: 1rem;
+  font-family: "louts shamy";
+  color: #24408e;
+}
+
+h2 {
+  text-align: center;
+  font-size: 0.875rem;
+  font-family: "louts shamy";
+  color: #25408f;
+}
+
+h3 {
+  text-align: center;
+  font-size: 0.7em;
+  font-family: "louts shamy";
+  color: #25408f;
+}
+
+p,
+li,
+.list {
+  direction: rtl;
+  font-family: "louts shamy";
+  font-size: 0.625rem;
+  line-height: 1rem;
+  text-align: justify;
+}
+
+li,
+.list {
+  margin: 0px 0px 0px 10px;
+  text-indent: 0.2rem;
+}
+
+p {
+  margin-block-start: 0rem;
+  margin-block-end: 0.2rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0.5rem;
+}
+.p-level-2 {
+  text-indent: 0.3rem;
+}
+.p-level-3 {
+  text-indent: 0.7rem;
+}
+.p-level-4 {
+  text-indent: 1.5rem;
+}
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0.5rem;
+  list-style: arabic-indic;
+}
+
+span ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0.5rem;
+  list-style: none;
+}
+
+span ol li:nth-child(1)::before {
+  content: "أ. ";
+}
+span ol li:nth-child(2)::before {
+  content: "ب. ";
+}
+span ol li:nth-child(3)::before {
+  content: "ت. ";
+}
+span ol li:nth-child(4)::before {
+  content: "ث. ";
+}
+span ol li:nth-child(5)::before {
+  content: "ج. ";
+}
+.level-2,
+.list2,
+.level-2_ext,
+.level-2_ext-2 {
+  margin: 10px 30px 0px 0px;
+  text-indent: 0rem;
+  list-style-type: disc;
+  font-family: "louts shamy";
+  font-size: 0.625rem;
+  line-height: 1.6;
+}
+.level-3,
+.level-3_ext {
+  margin: 10px 40px 0px 0px;
+  text-indent: 0rem;
+  list-style-type: circle;
+  font-family: "louts shamy";
+  font-size: 0.625rem;
+  line-height: 1.6;
+}
+
+.level-4,
+.level-4_ext {
+  margin: 10px 50px 0px 0px;
+  text-indent: 0rem;
+  list-style-type: square;
+  font-family: "louts shamy";
+  font-size: 0.625rem;
+  line-height: 1.6;
+}
+
+.level-2_ext {
+  list-style-type: none;
+}
+.level-3_ext {
+  list-style-type: none;
+}
+.level-4_ext {
+  list-style-type: none;
+}
+.level-2_ext-2 {
+  list-style-type: inherit;
+}
+ul li p {
+  text-indent: 0px;
+}
+ul ul {
+  list-style-type: square;
+}
+ul ul ul {
+  list-style-type: circle;
+}
+
+.matn {
+  font-weight: bold;
+}
+
+.hadeeth-black {
+  font-weight: bold;
+}
+
+.daleel-maanawy {
+  color: #005da2;
+}
+
+.daleel-nassy {
+  color: #009a46;
+}
+
+.quran {
+  font-family: "KFGQPC Uthmanic Script HAFS";
+  font-size: 0.55rem;
+  color: #000000;
+  line-height: 0rem;
+}
+
+.daleel-nassy .quran {
+  color: #009a46;
+  font-weight: bold;
+}
+
+.hadeeth {
+  font-weight: bold;
+  color: #009a46;
+}
+.qreen {
+  color: #009a46;
+}
+
+.taareef {
+  color: #c00000;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bold-red {
+  font-weight: bold;
+  color: #c00000;
+}
+
+.saying-head {
+  color: #1870b8;
+}
+
+.page-number,
+.page-number-latin {
+  display: block;
+  font-family: "lotus linotype";
+  color: #000;
+  background: #fff;
+  margin-top: -15px;
+  padding: 0;
+  width: max-content;
+  margin-right: auto;
+  margin-left: 30px;
+}
+.page-number {
+  font-size: 18px;
+}
+.page-number-latin {
+  font-size: 12px;
+  line-height: 30px;
+}
+
+hr {
+  margin-top: 16px;
+}
+
+.page-number::before,
+.page-number-latin::before {
+  content: " /";
+}
+.page-number::after,
+.page-number-latin::after {
+  content: " /";
+}
+
+.example {
+  width: 80%;
+  border: red 1px solid;
+  border-radius: 0.5em;
+  margin: 1% 10% 1% 10%;
+  padding: 5px;
+}
+
+.break {
+  /* display: none; */
+  /* font-family: "AGA Arabesque"; */
+  font-size: 0.5rem;
+  text-align: center;
+}
+
+.form-phrase {
+  /* font-family: "KFGQPC Arabic Symbols 01"; */
+  font-weight: regular;
+  font-size: 0.7rem;
+  display: inline-block;
+}
+
+._idFootnote .form-phrase {
+  /* font-family: "KFGQPC Arabic Symbols 01"; */
+  font-weight: regular;
+  font-weight: 0;
+  font-size: 0.7rem;
+  display: inline-block;
+}
+
+.basmala {
+  /* font-family: "AGA Arabesque"; */
+  font-size: 2rem;
+  text-align: center;
+  padding: 0px 0px 0px 10px;
+}
+
+.basmala2 {
+  text-indent: 0rem;
+  /* font-family: "AGA Arabesque"; */
+  font-size: 200px;
+  text-align: center;
+  color: #24408e;
+
+  margin-block-start: 50%;
+  margin-block-end: 0rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0rem;
+}
+
+.takhreeg-aya {
+  font-size: 0.5rem;
+}
+
+/* ----------- FootNotes -----------*/
+/*._idFootnoteAnchor {display: none;}   */
+/*._idFootnote {display: none;}         */
+.footnote {
+  display: block;
+  font-size: 0.5rem;
+}
+/*----------------------------------*/
+
+._idFootnoteAnchor {
+  vertical-align: baseline;
+  text-decoration: none;
+}
+
+.sigil_split_marker {
+  display: none;
+}
+
+.foot-refrence,
+._idFootnoteLink {
+  font-family: "louts shamy";
+  font-size: 0.5rem;
+  font-weight: normal;
+  text-decoration: none;
+  display: inline;
+  vertical-align: super;
+}
+
+.inlineTitle {
+  font-weight: bold;
+  color: #c00000;
+}
+
+/*-----------------------------------*/
+
+.work-team {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.work-team-head {
+  color: white;
+  background-color: #616989;
+  border: 1px solid black;
+}
+
+.work-team-cell {
+  border: 1px solid black;
+}
+
+.work-team-head-c {
+  font-family: "Qadi Linotype";
+  font-weight: normal; /*bold*/
+  text-align: center;
+  text-indent: 0rem;
+}
+
+.work-team-cell-c {
+  font-family: "louts shamy";
+  text-align: center;
+  text-indent: 0rem;
+}
+
+.cover,
+.cover-bold,
+.centered-normal {
+  font-family: "louts shamy";
+  text-align: center;
+  text-indent: 0rem;
+}
+
+.cover-bold {
+  font-weight: 300;
+}
+
+.h2-intro {
+  font-family: "Qadi Linotype";
+  text-align: right;
+  color: #24408e;
+}
+
+.h3-intro {
+  font-family: "Qadi Linotype";
+  text-align: right;
+  text-indent: 0rem;
+  color: #40ad48;
+}
+
+.h4-intro {
+  font-family: "louts shamy";
+  text-align: right;
+  text-indent: 0rem;
+  color: #24408e;
+}
+
+.image-catptian {
+  font-family: "louts shamy";
+  text-align: center;
+  text-indent: 0rem;
+  color: #24408e;
+}
+
+.image-catptian img {
+  height: 16rem;
+}
+
+.qr-captian {
+  font-family: "Times New Roman";
+  text-align: center;
+  text-indent: 0rem;
+  color: #24408e;
+}
+
+.qr-link {
+  font-family: "Times New Roman";
+  text-align: center;
+  text-indent: 0rem;
+  color: #24408e;
+  text-decoration: underline;
+}
+
+/*------------------------------------------------*/
+.poetry-right {
+  text-align: right;
+  font-weight: bold;
+}
+.poetry-left {
+  text-align: left;
+  font-weight: bold;
+}
+.poetry-foot-right {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1rem;
+}
+.poetry-foot-left {
+  text-align: left;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.bab-title,
+.section-title {
+  font-family: "Harf-Fannan";
+}
+
+.doaa-centered {
+  padding: 0.4rem 0rem 0rem 0rem;
+  text-align: center;
+  font-family: "Qadi Linotype";
+  font-weight: bold;
+}
+.taareef.org_matn {
+  font-weight: bold;
+}
+.int_link {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #0000ee;
+}
+
+.comparison_table,
+.comparison_table td {
+  border: solid 1px black;
+  border-collapse: collapse;
+
+  direction: rtl;
+  font-family: "louts shamy";
+  font-size: 0.625rem;
+  line-height: 1rem;
+
+  text-align: center;
+  color: #000000;
+}
+.comparison_table thead tr td {
+  background-color: #c8c9cd;
+  font-size: 0.625rem;
+  font-family: "Qadi Linotype";
+}
+.comparison_table tr td:nth-child(1) {
+  width: 20%;
+  font-size: 0.625rem;
+  font-family: "Qadi Linotype";
+}
+.comparison_table tr td:nth-child(2) {
+  width: 40%;
+}
+.comparison_table tr td:nth-child(3) {
+  width: 40%;
+}
+img {
+width: 100px;
+  height: 100px;
+}
