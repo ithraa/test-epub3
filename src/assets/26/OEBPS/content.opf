@@ -49,8 +49,9 @@
     <itemref idref="toc" linear="no" />
 
     <itemref idref="1-1" />
-    <itemref idref="1-3" />
     <itemref idref="1-2" />
+    <itemref idref="1-3" />
+
 
     <itemref idref="1-4" />
     <itemref idref="1-5" />
