@@ -23,70 +23,81 @@ export class AppComponent {
   ngAfterViewInit(): void {
     if (this.isBrowser) {
       try {
-
-        // this.book = ePub('/assets/2011.epub');
-        // this.book = ePub('/assets/moby-dick/OPS/package.opf');
-
-        // this.book = ePub('/assets/accessible_epub_3.epub');
-        // this.book = ePub('/assets/accessible_epub_3/EPUB/package.opf');
-
-        this.book = ePub('/assets/26/OEBPS/content.opf');
-        // this.book = ePub('/assets/70/extracted_content/OEBPS/content.opf');
-        // this.book = Epub('/assets/43/OEBPS/content.opf');
-
-
-        // Use proper error handling and options for Safari compatibility
-        // this.book = ePub('/assets/46/extracted_content/OEBPS/content.opf', {
-        //   encoding: 'binary',
-        //   openAs: 'epub'
-        // });
+         this.book = ePub('/assets/accessible_epub_3/EPUB/package.opf');
+        // Load book with WebKit-friendly configuration
+        // this.book = ePub('/assets/26/OEBPS/content.opf');
 
         this.rendition = this.book.renderTo('viewer', {
-          flow: 'paginated', // Changed from scrolled-doc for better Safari support
-          // flow: 'scrolled-doc',
+          flow: 'paginated',
           width: '100%',
           height: '100%',
-          allowScriptedContent: true,
-          manager: 'default'
+          spread: 'none',
+          minSpreadWidth: 901, // Prevents spread view on iPad
+          manager: 'continuous' // Better for WebKit browsers
         });
 
-        this.rendition.display().catch((error: Error) => {
+        // Add navigation event handlers
+        this.rendition.on('relocated', (location: any) => {
+          console.log('Current location:', location);
+          // Force layout recalculation for WebKit
+          setTimeout(() => {
+            window.dispatchEvent(new Event('resize'));
+          }, 100);
+        });
+
+        // Initialize display with error handling
+        this.rendition.display().then(() => {
+          console.log('Book displayed successfully');
+          return this.book.locations.generate();
+        }).catch((error: Error) => {
           console.error('Error displaying book:', error);
         });
 
-        // // Patch: Prevent pageList errors from breaking navigation
-        // this.book.ready.then(() => {
-        //   if (!this.book.pageList) {
-        //     // Patch epub.js navigation if pageList is missing
-        //     this.book.pageList = {
-        //       pageFromCfi: () => undefined,
-        //       cfiFromPage: () => undefined,
-        //       pages: [],
-        //       locations: [],
-        //       length: 0
-        //     };
-        //   }
-        // });
-
-        // Add error handling for book loading
-        this.book.ready.catch((error: Error) => {
-          console.error('Error loading book:', error);
+        // Patch: Ensure navigation works even if pageList is missing
+        this.book.ready.then(() => {
+          if (!this.book.pageList) {
+            console.log('Patching missing pageList');
+            this.book.pageList = {
+              pageFromCfi: () => undefined,
+              cfiFromPage: () => undefined,
+              pages: [],
+              locations: [],
+              length: 0
+            };
+          }
+        }).catch((error: Error) => {
+          console.error('Error during book initialization:', error);
         });
+
       } catch (error: unknown) {
         console.error('Error initializing book:', error);
       }
     }
   }
 
+  // Improved navigation methods
   nextPage() {
     if (this.rendition) {
-      this.rendition.next();
+      this.rendition.next().catch((error: Error) => {
+        console.error('Error navigating to next page:', error);
+      });
     }
   }
 
   prevPage() {
     if (this.rendition) {
-      this.rendition.prev();
+      this.rendition.prev().catch((error: Error) => {
+        console.error('Error navigating to previous page:', error);
+      });
+    }
+  }
+
+  // Add method to navigate to a specific chapter
+  navigateToChapter(href: string) {
+    if (this.rendition) {
+      this.rendition.display(href).catch((error: Error) => {
+        console.error('Error navigating to chapter:', error);
+      });
     }
   }
 }
