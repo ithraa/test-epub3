@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  version="3.0"
+  xml:lang="ar-SA"
+  unique-identifier="bookid">
+  
+  <metadata>
+    <dc:identifier id="bookid">urn:uuid:26-book-id</dc:identifier>
+    <dc:title>Book 26</dc:title>
+    <dc:language>ar</dc:language>
+    <dc:creator>Author Name</dc:creator>
+    <dc:publisher>Publisher Name</dc:publisher>
+    <dc:rights>All rights reserved</dc:rights>
+    <meta property="dcterms:modified">2024-03-21T12:00:00Z</meta>
+    
+    <!-- Accessibility metadata -->
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+  </metadata>
+
+  <manifest>
+    <!-- Navigation -->
+    <item id="toc" properties="nav" media-type="application/xhtml+xml" href="Text/toc.xhtml"/>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    
+    <!-- Stylesheets -->
+    <item id="css-style" href="css/stylesheet.css" media-type="text/css"/>
+    
+    <!-- Chapter 3 Content -->
+    <item id="chapter3" href="Text/3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-83" href="Text/3-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-84" href="Text/3-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-85" href="Text/3-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-86" href="Text/3-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-87" href="Text/3-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-88" href="Text/3-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-89" href="Text/3-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-90" href="Text/3-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-91" href="Text/3-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3-92" href="Text/3-92.xhtml" media-type="application/xhtml+xml"/>
+    
+    <!-- Chapter 4 Content -->
+    <item id="chapter4" href="Text/4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-1" href="Text/4-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-2" href="Text/4-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-3" href="Text/4-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-4" href="Text/4-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-5" href="Text/4-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-6" href="Text/4-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-7" href="Text/4-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-8" href="Text/4-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-9" href="Text/4-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4-10" href="Text/4-10.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+
+  <spine page-progression-direction="rtl">
+    <itemref idref="cover"/>
+    <itemref idref="toc"/>
+    <!-- Chapter 3 -->
+    <itemref idref="chapter3"/>
+    <itemref idref="chapter3-83"/>
+    <itemref idref="chapter3-84"/>
+    <itemref idref="chapter3-85"/>
+    <itemref idref="chapter3-86"/>
+    <itemref idref="chapter3-87"/>
+    <itemref idref="chapter3-88"/>
+    <itemref idref="chapter3-89"/>
+    <itemref idref="chapter3-90"/>
+    <itemref idref="chapter3-91"/>
+    <itemref idref="chapter3-92"/>
+    <!-- Chapter 4 -->
+    <itemref idref="chapter4"/>
+    <itemref idref="chapter4-1"/>
+    <itemref idref="chapter4-2"/>
+    <itemref idref="chapter4-3"/>
+    <itemref idref="chapter4-4"/>
+    <itemref idref="chapter4-5"/>
+    <itemref idref="chapter4-6"/>
+    <itemref idref="chapter4-7"/>
+    <itemref idref="chapter4-8"/>
+    <itemref idref="chapter4-9"/>
+    <itemref idref="chapter4-10"/>
+  </spine>
+</package> 
