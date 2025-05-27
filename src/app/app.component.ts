@@ -72,9 +72,9 @@ export class AppComponent {
       } catch (error: unknown) {
         console.error('Error initializing book:', error);
       }
-    }
+    
   }
-
+  }
   // Improved navigation methods
   nextPage() {
     if (this.rendition) {
@@ -101,7 +101,3 @@ export class AppComponent {
     }
   }
 }
-function Epub(arg0: string): any {
-  throw new Error('Function not implemented.');
-}
-
