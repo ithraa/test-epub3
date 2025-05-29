@@ -337,7 +337,7 @@
     <item id="WMG-Lotus-Light.otf" href="Fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
     <item id="WMG-QadiLinotype.otf" href="Fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
   </manifest>
-  <spine toc="ncx"  page-progression-direction="rtl">
+  <spine toc="ncx"  >
     <itemref idref="cover" linear="no"/>
     <itemref idref="x0" linear="no"/>
     <itemref idref="x0-1" linear="no"/>

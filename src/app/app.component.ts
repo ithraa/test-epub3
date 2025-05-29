@@ -20,11 +20,11 @@ export class AppComponent {
   ngAfterViewInit(): void {
     if (this.isBrowser) {
 
-    this.book = ePub('/assets/4/EPUB/package.opf');
+    this.book = ePub('/assets/26/extracted_content/OEBPS/content.opf');
     // this.book = ePub('/assets/accessible_epub_3/EPUB/package.opf');
     // this.book = ePub('/assets/262/extracted_content/OEBPS/content.opf');
 
-    this.rendition = this.book.renderTo('viewer', {
+    this.rendition = this.book.renderTo('viewer', { 
       flow: 'scrolled-doc',
       width: '100%',
       height: '100%',
