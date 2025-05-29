@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package
+xmlns="http://www.idpf.org/2007/opf"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+version="3.0" xml:lang="ar"
+unique-identifier="pub-identifier">
+	<metadata>
+		<dc:identifier id="pub-identifier">urn:isbn:9781449328030</dc:identifier>
+		<dc:title id="pub-title">Accessible EPUB 3</dc:title>
+		<dc:language id="pub-language-gad">en</dc:language>
+		<dc:date>2012-02-20</dc:date>
+		<meta property="dcterms:modified">2012-10-24T15:30:00Z</meta>
+		<dc:creator id="pub-creator12">Matt Garrish</dc:creator>
+		<dc:contributor>O’Reilly Production Services</dc:contributor>
+		<dc:contributor>David Futato</dc:contributor>
+		<dc:contributor>Robert Romano</dc:contributor>
+		<dc:contributor>Brian Sawyer</dc:contributor>
+		<dc:contributor>Dan Fauxsmith</dc:contributor>
+		<dc:contributor>Karen Montgomery</dc:contributor>
+		<dc:publisher>O’Reilly Media, Inc.</dc:publisher>
+		<dc:rights>Copyright © 2012 O’Reilly Media, Inc</dc:rights>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilitySummary">This EPUB Publication meets the requirements of the EPUB Accessibility specification with conformance to WCAG 2.0 Level AA. The publication is screen reader friendly.</meta>
+		<link rel="dcterms:conformsTo" href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa"/>
+		<meta property="a11y:certifiedBy">Matt Garrish</meta>
+	</metadata>
+	<manifest>
+		<item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="toc.xhtml"/>
+	    <item id="css-style" href="css/stylesheet.css" media-type="text/css"/>
+		<item id="x3-3" href="3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item id="x3-4" href="3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item id="x3-5" href="3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item id="x3-6" href="3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item id="x3-7" href="3-3.xhtml" media-type="application/xhtml+xml"/>
+
+		  <item id="UthmanicHafs1_Ver09.otf" href="fonts/UthmanicHafs1%20Ver09.otf" media-type="font/otf"/>
+    <item id="WMG-AGA-Arabesque.otf" href="fonts/WMG-AGA-Arabesque.otf" media-type="font/otf"/>
+    <item id="WMG-Harf-Fannan.otf" href="fonts/WMG-Harf-Fannan.otf" media-type="font/otf"/>
+    <item id="WMG-KFGQPCArabicSymbols01.otf" href="fonts/WMG-KFGQPCArabicSymbols01.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Bold.otf" href="fonts/WMG-Lotus-Bold.otf" media-type="font/otf"/>
+    <item id="WMG-Lotus-Light.otf" href="fonts/WMG-Lotus-Light.otf" media-type="font/otf"/>
+    <item id="WMG-QadiLinotype.otf" href="fonts/WMG-QadiLinotype.otf" media-type="font/otf"/>
+	</manifest>
+	<spine>
+	
+	
+	<itemref idref="htmltoc" linear="yes"/>
+	
+    <itemref idref="x3-4"/>
+	<itemref idref="x3-3"/>
+    <itemref idref="x3-5"/>
+    <itemref idref="x3-6"/>
+    <itemref idref="x3-7"/>
+
+	</spine>
+</package>
